@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  11 MAY 2020 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  11 MAY 2020 18:17
 entering extended mode
 **"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
 ("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
@@ -1006,14 +1006,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 
-{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc")
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-[2]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+ [2]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.38      \newpage
@@ -1033,41 +1030,36 @@ babelbib: Using the BibTeX style's default font for `numeral'.
 LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
                before end of `thebibliography' environment on input line 15.
 
-)
-
-Package hyperref Warning: old lof file detected, not used; run LaTeX again.
-
+) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof")
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44  \end{document}
+l.43  \end{document}
                      [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 29033 strings out of 480930
- 603761 string characters out of 2908615
- 984769 words of memory out of 3000000
+ 29037 strings out of 480930
+ 604121 string characters out of 2908615
+ 998189 words of memory out of 3000000
  44323 multiletter control sequences out of 15000+200000
  603956 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,20n,83p,10202b,741s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (4 pages, 109096 bytes).
+Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (4 pages, 108073 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  29 words of extra memory for PDF output out of 10000 (max. 10000000)
-
-tput out of 10000 (max. 10000000)
 

@@ -398,9 +398,11 @@ INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT C:\Users\phili\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
