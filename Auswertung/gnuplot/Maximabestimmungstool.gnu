@@ -47,7 +47,7 @@ set print
 # print $PeakInfo
 
 #set yrange[150:250]
-Threshold = 4
+Threshold = 50
 set label 1 at graph 0.05, 0.9 sprintf("Threshold: %g",Threshold)
 plot $Data u 1:2 w lp pt 7 ps 0.5 lc rgb "red" not, \
      $PeakInfo u ($4>Threshold?$2:NaN):3 w p pt 7 lc rgb "blue" not, \
