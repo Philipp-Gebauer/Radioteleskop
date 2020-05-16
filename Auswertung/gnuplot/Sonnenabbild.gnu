@@ -17,8 +17,8 @@ load "set2.pal"
 #set title "Abbildung der Sonne"
 #set xrange [x_min:x_max]
 set zrange [z_min:z_max]
-set xlabel "Azimuth off in $\\degree$" offset 0,-1 rotate parallel
-set ylabel "Altitude off in $\\degree$" offset 0,-1 rotate parallel
+set xlabel "Azimuth offset in $\\degree$" offset 0,-1 rotate parallel
+set ylabel "Altitude offset in $\\degree$" offset 0,-1 rotate parallel
 set zlabel "Temperatur in $\\si{}{K}$" rotate parallel
 set dgrid3d 100,100
 set hidden3d

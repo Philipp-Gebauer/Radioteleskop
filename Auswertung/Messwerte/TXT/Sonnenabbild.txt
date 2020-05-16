@@ -1,4 +1,4 @@
-#x (Azimuth off)  y (Altitude off)  velocity (not needed) z (temperatur K)
+#x (Azimuth offset)  y (Altitude offset)  velocity (not needed) z (temperatur K)
 -10	10  2200	308.3
 -5	10	2181.1	318.5
 0	10	2200	324.8
