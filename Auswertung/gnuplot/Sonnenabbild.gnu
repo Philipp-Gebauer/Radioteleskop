@@ -25,11 +25,11 @@ set hidden3d
 
 #set datafile separator ","
 
-# f(x) = a + c*exp(-(x-d)/t)
-# t = 3e-04
-# a = 0.001
-# d = 1e-03
-# fit [x_min:x_max] f(x) dataPTH using 1:2 via a,c,d,t
+ #f(x) = a + c*exp(-(x-d)/t)
+ #t = 3e-04
+ #a = 0.001
+ #d = 1e-03
+ fit [x_min:x_max] f(x) dataPTH using 1:2 via a,c,d,t
 
 # set label sprintf("$\\tau$ = \\SI{%.7f \\pm %.7f}{s}", t, t_err) at graph 0.5, 0.5
 splot dataPTH u 1:2:4 with lines notitle
