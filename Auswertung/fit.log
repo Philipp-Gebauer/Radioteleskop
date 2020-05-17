@@ -1,276 +1,41 @@
 
 
 *******************************************************************************
-Sat May 16 21:42:27 2020
+Sun May 17 09:34:23 2020
 
 
-FIT:    data read from dataPTH using 1:($3*1000):2:($4*1000) xyerrors
-        format = x:z:sx:s
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-m)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-Warning: Initial value of parameter 'a' is zero.
-Warning: Initial value of parameter 'm' is zero.
-
-
-*******************************************************************************
-Sat May 16 21:44:12 2020
-
-
-FIT:    data read from dataPTH using 1:2
+FIT:    data read from dataPTH using 1:4
         format = x:z
-        x range restricted to [-18.0000 : 18.0000]
+        x range restricted to [-16.0000 : 16.0000]
         #datapoints = 17
         residuals are weighted equally (unit weight)
 
 function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-m)^2/(2*s^2))
+	f(x) = b*exp(-(x-d)**2/(s**2)) + a
 fitted parameters initialized with current variable values
 
-
-
-*******************************************************************************
-Sat May 16 21:44:58 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:45:05 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:46:39 2020
-
-
-FIT:    data read from dataPTH using 1:($3*1000):2:($4*1000) xyerrors
-        format = x:z:sx:s
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:47:26 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) =a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:47:55 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) = a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:49:27 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) = a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:49:39 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) = a + (1/(2*pi*s)^(1/2))*exp(-(x-d)^2/(2*s^2))
-fitted parameters initialized with current variable values
-
-
-
-*******************************************************************************
-Sat May 16 21:50:06 2020
-
-
-FIT:    data read from dataPTH using 1:2
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-        #datapoints = 17
-        residuals are weighted equally (unit weight)
-
-function used for fitting: f(x)
-	f(x) = a + (1/(2*pi*s)**(1/2))*exp(-(x-d)**2/(2*s**2))
-fitted parameters initialized with current variable values
-
-iter      chisq       delta/lim  lambda   a             s             d            
-   0 5.8536644973e+00   0.00e+00  2.62e-01    1.000000e-01   5.000000e+00   1.000000e-01
-1025 4.7755678140e-56  -1.00e+00  2.62e-21   -1.325037e-29   2.453524e-02   2.276847e+00
-Calculation error: non-positive diagonal element in covar. matrix of parameter 'a'.
-
-The covariance matrix is invalid. Fit did not converge properly.
-final sum of squares of residuals : 4.77557e-56
-abs. change during last iteration : -4.77553e-61
-
-
-Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
-
-Final set of parameters 
-======================= 
-
-a               = -1.32504e-29   
-s               = 0.0245352      
-d               = 2.27685        
-
-
-*******************************************************************************
-Sat May 16 22:16:28 2020
-
-
-FIT:    data read from dataPTH using 1:2000
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:16:43 2020
-
-
-FIT:    data read from dataPTH using 1:2000
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:17:13 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:17:15 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:17:56 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:18:22 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:18:24 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:18:41 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:20:12 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:20:33 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
-
-*******************************************************************************
-Sat May 16 22:20:56 2020
-
-
-FIT:    data read from dataPTH using 1:20
-        format = x:z
-        x range restricted to [-18.0000 : 18.0000]
-BREAK: No data to fit
+iter      chisq       delta/lim  lambda   a             s             d             b            
+   0 9.1445286340e+05   0.00e+00  2.12e+02    3.000000e+02  -6.000000e+02   3.400000e+01   3.000000e+02
+  22 5.1598175037e+02  -6.61e-03  2.12e+04    3.130429e+02  -4.685460e+00   9.679489e-01   3.646743e+02
+
+After 22 iterations the fit converged.
+final sum of squares of residuals : 515.982
+rel. change during last iteration : -6.61201e-08
+
+degrees of freedom    (FIT_NDF)                        : 13
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6.30007
+variance of residuals (reduced chisquare) = WSSR/ndf   : 39.6909
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 313.043          +/- 2.202        (0.7034%)
+s               = -4.68546         +/- 0.07788      (1.662%)
+d               = 0.967949         +/- 0.04724      (4.88%)
+b               = 364.674          +/- 4.763        (1.306%)
+
+correlation matrix of the fit parameters:
+                a      s      d      b      
+a               1.000 
+s               0.514  1.000 
+d               0.000  0.000  1.000 
+b              -0.327  0.300  0.000  1.000 
