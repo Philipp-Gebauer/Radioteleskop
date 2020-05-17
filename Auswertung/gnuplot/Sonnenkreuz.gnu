@@ -6,14 +6,14 @@
 set terminal epslatex # size 15 cm, 9 cm
 set output "plots/Sonnenkreuz_Az.tex"
 
-x_min = -16
-x_max = 16
+x_min = -18
+x_max = 18
 dataPTH = "Messwerte/TXT/Sonnenkreuz_Az.txt"
 
 # Palette Config
 load "jet.pal"
-set xlabel "Azimuth offset relative to the Sun in $\\si{}{\\degree}$"
-set ylabel "Temperatur in $\\si{}{K}$"
+set xlabel "Azimuth offset relative to the Sun [$\\si{}{\\degree}$]"
+set ylabel "Continuum intensity [arbitrary units]"
 set xrange [x_min:x_max]
 
 # f(x) = a + (1/((2*pi*s)**(1/2)))*exp(-(x-d)**2/(2*s**2))
@@ -22,11 +22,11 @@ set xrange [x_min:x_max]
 # d = -171
 # fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d
 
-f(x) = b*exp(-(x-d)**2/(s**2)) + a
-a = 300
-s = -600
-d = 34
-b = 300
+f(x) = (1/((2*pi*s**2)**(1/2))) * b * exp(-(x-d)**2/(2*s**2)) + a
+a = 313.048
+s = 3.3129
+d = 0.967925
+b = 364.68
 fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 # fit f(x) dataPTH using 1:($3*1000):2:($4*1000) xyerrors via a,s,d
 
