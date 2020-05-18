@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  17 MAY 2020 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  18 MAY 2020 09:55
 entering extended mode
 **"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
 ("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
@@ -1037,14 +1037,18 @@ Package pdftex.def Info: plots/Sonnenabbild-eps-converted-to.pdf  used on input 
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenkreuz_Az.eps>
-(epstopdf)                    date: 2020-05-17 13:58:38
+(epstopdf)                    date: 2020-05-18 09:55:43
 (epstopdf)                    size: 19371 bytes
 (epstopdf)             Output file: <plots/Sonnenkreuz_Az-eps-converted-to.pdf>
 (epstopdf)                    date: 2020-05-17 13:58:47
 (epstopdf)                    size: 3720 bytes
 (epstopdf)             Command: <epstopdf --outfile=plots/Sonnenkreuz_Az-eps-converted-to.pdf plots/Sonnenkreuz_Az.eps>
 (epstopdf)             \includegraphics on input line 116.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=plots/Sonnenkreuz_Az-eps-converted-to.pdf plots/Sonnenkreuz_Az.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <plots/Sonnenkreuz_Az-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-18 09:55:54
+(epstopdf)                    size: 3720 bytes.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed

@@ -22,7 +22,7 @@ set xrange [x_min:x_max]
 # d = -171
 # fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d
 
-f(x) = (1/((2*pi*s**2)**(1/2))) * b * exp(-(x-d)**2/(2*s**2)) + a
+f(x) = (1/((2*pi)**(1/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
 a = 313.048
 s = 3.3129
 d = 0.967925
