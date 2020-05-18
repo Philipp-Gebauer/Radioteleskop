@@ -26,7 +26,7 @@ f(x) = (1/((2*pi)**(1/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
 a = 313.048
 s = 3.3129
 d = 0.967925
-b = 364.680
+b = 364.68
 fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 # fit f(x) dataPTH using 1:($3*1000):2:($4*1000) xyerrors via a,s,d
 
