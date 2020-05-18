@@ -1,10 +1,10 @@
 #png
-#  set terminal png size 1024,720
-#  set output "pngplots/Sonnenkreuz_Az.png"
+ set terminal png size 1024,720
+ set output "pngplots/Sonnenkreuz_Az.png"
 
 #epslatex
-set terminal epslatex # size 15 cm, 9 cm
-set output "plots/Sonnenkreuz_Az.tex"
+# set terminal epslatex # size 15 cm, 9 cm
+# set output "plots/Sonnenkreuz_Az.tex"
 
 x_min = -18
 x_max = 18
