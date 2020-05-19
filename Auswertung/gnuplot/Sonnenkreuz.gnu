@@ -1,18 +1,18 @@
 #png
  set terminal png size 1024,720
- set output "pngplots/Sonnenkreuz_Az.png"
+ set output "pngplots/Sonnenkreuz_Alt.png"
 
 #epslatex
-# set terminal epslatex # size 15 cm, 9 cm
-# set output "plots/Sonnenkreuz_Az.tex"
+ set terminal epslatex # size 15 cm, 9 cm
+ set output "plots/Sonnenkreuz_Alt.tex"
 
 x_min = -18
 x_max = 18
-dataPTH = "Messwerte/TXT/Sonnenkreuz_Az.txt"
+dataPTH = "Messwerte/TXT/Sonnenkreuz_Alt.txt"
 
 # Palette Config
 load "jet.pal"
-set xlabel "Azimuth offset relative to the Sun [$\\si{}{\\degree}$]"
+set xlabel "Altitude offset relative to the Sun [$\\si{}{\\degree}$]"
 set ylabel "Continuum intensity [arbitrary units]"
 set xrange [x_min:x_max]
 
@@ -23,10 +23,10 @@ set xrange [x_min:x_max]
 # fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d
 
 f(x) = (1/((2*pi)**(1/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
-a = 313.048
-s = 3.3129
-d = 0.967925
-b = 364.680
+a = 312.002
+s = 2.38898
+d = 0.983662
+b = 905.336
 fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 # fit f(x) dataPTH using 1:($3*1000):2:($4*1000) xyerrors via a,s,d
 
