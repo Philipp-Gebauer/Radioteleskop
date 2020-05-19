@@ -308,6 +308,12 @@ INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.pdf
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
@@ -392,6 +398,8 @@ INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lm
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT C:\Users\simon\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
@@ -445,11 +453,28 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR.tex
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR.tex
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.aux
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
