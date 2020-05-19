@@ -3,8 +3,8 @@
  set output "pngplots/Sonnenkreuz_Alt.png"
 
 #epslatex
- set terminal epslatex # size 15 cm, 9 cm
- set output "plots/Sonnenkreuz_Alt.tex"
+# set terminal epslatex # size 15 cm, 9 cm
+# set output "plots/Sonnenkreuz_Alt.tex"
 
 x_min = -18
 x_max = 18
