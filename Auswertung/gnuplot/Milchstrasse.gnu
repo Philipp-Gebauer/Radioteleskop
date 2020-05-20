@@ -22,7 +22,7 @@ set ytics 5
 set xrange [x_min:x_max]
 set xlabel "x in $\\si{}{kpc}$" 
 set ylabel "y in $\\si{}{kpc}$"
-set object circle at 0,0 size first 25 fc rgb "navy"
+set object circle at 0,0 size first 25 fc rgb "navy" fs solid 0.5
 set size square
 
 

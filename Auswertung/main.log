@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  20 MAY 2020 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  20 MAY 2020 12:18
 entering extended mode
 **c:/Users/simon/Desktop/Radioteleskop/Auswertung/main.tex
 (c:/Users/simon/Desktop/Radioteleskop/Auswertung/main.tex
@@ -1103,14 +1103,18 @@ l.65
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Milchstrasse.eps>
-(epstopdf)                    date: 2020-05-20 12:09:05
+(epstopdf)                    date: 2020-05-20 12:18:21
 (epstopdf)                    size: 22081 bytes
 (epstopdf)             Output file: <plots/Milchstrasse-eps-converted-to.pdf>
 (epstopdf)                    date: 2020-05-20 12:09:13
 (epstopdf)                    size: 5558 bytes
 (epstopdf)             Command: <epstopdf --outfile=plots/Milchstrasse-eps-converted-to.pdf plots/Milchstrasse.eps>
 (epstopdf)             \includegraphics on input line 122.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(epstopdf --outfile=plots/Milchstrasse-eps-converted-to.pdf plots/Milchstrasse.eps)...executed (allowed).
+
+Package epstopdf Info: Result file: <plots/Milchstrasse-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-05-20 12:18:27
+(epstopdf)                    size: 5563 bytes.
 
 
 pdfTeX warning: pdflatex (file c:/Users/simon/Desktop/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
@@ -1123,18 +1127,14 @@ Package pdftex.def Info: plots/Milchstrasse-eps-converted-to.pdf  used on input 
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Milchstrassesafe.eps>
-(epstopdf)                    date: 2020-05-20 12:10:08
+(epstopdf)                    date: 2020-05-20 12:18:10
 (epstopdf)                    size: 21599 bytes
 (epstopdf)             Output file: <plots/Milchstrassesafe-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-20 12:09:46
-(epstopdf)                    size: 4297 bytes
+(epstopdf)                    date: 2020-05-20 12:18:19
+(epstopdf)                    size: 4833 bytes
 (epstopdf)             Command: <epstopdf --outfile=plots/Milchstrassesafe-eps-converted-to.pdf plots/Milchstrassesafe.eps>
 (epstopdf)             \includegraphics on input line 122.
-runsystem(epstopdf --outfile=plots/Milchstrassesafe-eps-converted-to.pdf plots/Milchstrassesafe.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <plots/Milchstrassesafe-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-20 12:10:16
-(epstopdf)                    size: 4826 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/simon/Desktop/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
@@ -1182,7 +1182,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  67i,19n,83p,10166b,811s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/simon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on c:/Users\simon\Desktop\Radioteleskop\Auswertung\main.pdf (7 pages, 256685 bytes).
+Output written on c:/Users\simon\Desktop\Radioteleskop\Auswertung\main.pdf (7 pages, 256697 bytes).
 PDF statistics:
  122 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
