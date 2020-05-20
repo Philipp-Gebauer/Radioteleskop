@@ -6,19 +6,25 @@
 set terminal epslatex
 set output "plots/Milchstrasse.tex"
 
-y_min = -20
-y_max = 20
-x_min = -20
-x_max = 20
+y_min = -30
+y_max = 30
+x_min = -30
+x_max = 30
+
 dataPTH = "Messwerte/TXT/Milchstrasse.txt"
 
 # Palette Config
 load "jet.pal"
 #set title "Abbildung der Sonne"
-set yrange [y_min:y_max]
+set ytics 5
+ set xtics 5
+ set yrange [y_min:y_max]
 set xrange [x_min:x_max]
 set xlabel "x in $\\si{}{kpc}$" 
 set ylabel "y in $\\si{}{kpc}$"
+set object circle at 0,0 size first 25 fc rgb "navy"
+set size square
+
 
 
 # f(x) = c
