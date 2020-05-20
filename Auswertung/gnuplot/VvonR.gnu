@@ -8,17 +8,18 @@ set output "plots/VvonR.tex"
 
 y_min = 0
 y_max = 240
-z_min = 300
-z_max = 700
+x_min = 4
+x_max = 9
 dataPTH = "Messwerte/TXT/VvonR.txt"
 
 # Palette Config
 load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
+set xrange [x_min:x_max]
 set xlabel "Bahnradius in $\\si{}{pc}$" 
 set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
-
+set key at graph 0.5,0.5
 
 f(x) = c
 c = 210
