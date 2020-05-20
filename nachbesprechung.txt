@@ -1,0 +1,24 @@
+kreuz:	- peak liegt nicht genau bei null. -> Tracking
+	- sonne fungiert als punktquelle
+	- durchmesser der schüssel aus frequenz und halbwertsbreite berechnen (ca. 2m)!!
+	- fwhm: damit  kann man auflösungsvermögen von teleskop bestimmen
+	- standardabweichung einfach nur angeben
+Raster:	- definierter peak in der mitte -> punuktquelle: annahme ist richtig
+	- Maxima bei frequenz nehmen
+
+konstant gesch:	- vergelichmit literautr
+Darstellung:	- mit matlab datei vergleichen
+		- die mit mehr werten nehmen
+		- gaußplott beispiel
+		- Tabelle werte machen: länge, geschwindigkeit rel, abstand R, +-r, 
+		- ein plot zeigen mit b ungleich 0 -> damit man sieht, dass man größers b machen sollte
+		- werte weglassen mit mehr als eine positive lösung
+Belichtungszeit:	- einmal alle und einmal max und min-> schöner sehen
+			- kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
+überall einstellungen immer dazuschreiben
+
+einleitung machen. kurz knackig
+grundlagen: wie im kolloqium behandelt: stichpunktartig alles reinschreiben was  behandelt wurde
+erwähnen wieso genau diese Frequenz sowohl sonne und milchstrasse quelle (paper zitieren)
+
+14Uhr mittwoch abgeben
