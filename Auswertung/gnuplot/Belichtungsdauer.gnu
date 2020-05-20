@@ -19,7 +19,7 @@ dataPTH6 = "Messwerte/TXT/M_Bel300s_l84_b0.txt"
 # Palette Config
 load "jet.pal"
 set xlabel "velocity relative to LSR in $\\si{}{\\frac{km}{s}}$"
-set ylabel "Continuum intensity [arbitrary units]"
+set ylabel "Temperatur in $\\si{}{K}$"
 set xrange [x_min:x_max] 
 
 plot dataPTH1 using 1:2 with line ls 1 ps 3 lw 2 title "$\\si{1}{s}$ Belichtungszeit", dataPTH2 using 1:2 with line ls 3 ps 3 lw 2 title "$\\si{3}{s}$ Belichtungszeit", dataPTH3 using 1:2 with line ls 5 ps 3 lw 2 title "$\\si{10}{s}$ Belichtungszeit", dataPTH4 using 1:2 with line ls 7 ps 3 lw 2 title "$\\si{30}{s}$ Belichtungszeit", dataPTH5 using 1:2 with line ls 9 ps 3 lw 2 title "$\\si{100}{s}$ Belichtungszeit", dataPTH6 using 1:2 with line ls 11 ps 3 lw 2 title "$\\si{300}{s}$ Belichtungszeit"
