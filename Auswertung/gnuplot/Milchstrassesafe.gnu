@@ -1,10 +1,10 @@
 #png
- set terminal png size 1024,720
- set output "pngplots/Milchstrassesafe.png"
+#  set terminal png size 1024,720
+#  set output "pngplots/Milchstrassesafe.png"
 
 #epslatex
-#set terminal epslatex
-#set output "plots/Milchstrassesafe.tex"
+set terminal epslatex
+set output "plots/Milchstrassesafe.tex"
 
 y_min = -20
 y_max = 20
