@@ -21,9 +21,12 @@ Belichtungszeit:	- einmal alle und einmal max und min-> schöner sehen
 			- kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
 überall einstellungen immer dazuschreiben
 
+
 einleitung machen. kurz knackig
 grundlagen: wie im kolloqium behandelt: stichpunktartig alles reinschreiben (z.b. Rotationsmodelle) was behandelt wurde
 erwähnen wieso genau diese Frequenz sowohl sonne und milchstrasse quelle (paper zitieren)
 Zentrale größen des Teleskop bei Aufbau und Druchführung
+erklären warum v = const und verbindung zu schwarzer Materie
+enweder unsicherheiten nach jedem Abschnitt diskutieren (Verbesserungsvorschläge z.b. Bel.dauer) oder großes Fazit am ende
 
 14Uhr mittwoch abgeben
