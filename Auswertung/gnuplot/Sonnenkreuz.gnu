@@ -30,6 +30,7 @@ b = 905.336
 fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 # fit f(x) dataPTH using 1:($3*1000):2:($4*1000) xyerrors via a,s,d
 
+#hiermüsstest du dein maximum auswählen. Hier ist es hat mit der Standardabweichung s gemacht
 set arrow from d-s,f(d-s) to d+s,f(d+s) heads
 # set label sprintf("width: \\SI{%.1f}{\\degree}",(2*s)) at -2,550
 set label sprintf("width: \\SI{%.1f \\pm %.1f}{\\degree}",(2*s),(2*s_err)) at -2,550
