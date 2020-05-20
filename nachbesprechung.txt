@@ -1,10 +1,14 @@
-kreuz:	- peak liegt nicht genau bei null. -> Tracking
-	- sonne fungiert als punktquelle
+kreuz:	- Selber keine Einheit, daher arbitrary intensity oder Temperatur
+	- peak liegt nicht genau bei null. -> Tracking = ca. Unsicherheit des Teleskops (Offset d)
+	- sonne fungiert als punktquelle --> sinc-funktion (Kreisblende
 	- durchmesser der schüssel aus frequenz und halbwertsbreite berechnen (ca. 2m)!!
-	- fwhm: damit  kann man auflösungsvermögen von teleskop bestimmen
+	- fwhm: damit  kann man auflösungsvermögen von teleskop bestimmen und als horizontale Linie reinplotten mit \sigma Wert
+		--> wie weit müssen objekte von einander entfernt sein um sie auflösen zu können
 	- standardabweichung einfach nur angeben
 Raster:	- definierter peak in der mitte -> punuktquelle: annahme ist richtig
 	- Maxima bei frequenz nehmen
+	- bestätigt sinc
+--> Paper nachschauen
 
 konstant gesch:	- vergelichmit literautr
 Darstellung:	- mit matlab datei vergleichen
@@ -18,7 +22,8 @@ Belichtungszeit:	- einmal alle und einmal max und min-> schöner sehen
 überall einstellungen immer dazuschreiben
 
 einleitung machen. kurz knackig
-grundlagen: wie im kolloqium behandelt: stichpunktartig alles reinschreiben was  behandelt wurde
+grundlagen: wie im kolloqium behandelt: stichpunktartig alles reinschreiben (z.b. Rotationsmodelle) was behandelt wurde
 erwähnen wieso genau diese Frequenz sowohl sonne und milchstrasse quelle (paper zitieren)
+Zentrale größen des Teleskop bei Aufbau und Druchführung
 
 14Uhr mittwoch abgeben
