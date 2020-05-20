@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  20 MAY 2020 12:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.19)  20 MAY 2020 12:26
 entering extended mode
 **c:/Users/simon/Desktop/Radioteleskop/Auswertung/main.tex
 (c:/Users/simon/Desktop/Radioteleskop/Auswertung/main.tex
@@ -1103,18 +1103,14 @@ l.65
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Milchstrasse.eps>
-(epstopdf)                    date: 2020-05-20 12:18:21
+(epstopdf)                    date: 2020-05-20 12:24:26
 (epstopdf)                    size: 22081 bytes
 (epstopdf)             Output file: <plots/Milchstrasse-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-20 12:09:13
-(epstopdf)                    size: 5558 bytes
+(epstopdf)                    date: 2020-05-20 12:24:32
+(epstopdf)                    size: 5563 bytes
 (epstopdf)             Command: <epstopdf --outfile=plots/Milchstrasse-eps-converted-to.pdf plots/Milchstrasse.eps>
 (epstopdf)             \includegraphics on input line 122.
-runsystem(epstopdf --outfile=plots/Milchstrasse-eps-converted-to.pdf plots/Milchstrasse.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <plots/Milchstrasse-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-20 12:18:27
-(epstopdf)                    size: 5563 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/simon/Desktop/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
