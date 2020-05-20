@@ -1,23 +1,23 @@
 #png
- set terminal png size 1024,720
- set output "pngplots/V(R).png"
+#  set terminal png size 1024,720
+#  set output "pngplots/V(R).png"
 
 #epslatex
-#set terminal epslatex
-#set output "plots/VvonR.tex"
+set terminal epslatex
+set output "plots/VvonR.tex"
 
 y_min = 0
 y_max = 240
 z_min = 300
 z_max = 700
-dataPTH = "Messwerte/TXT/V(R)_Data.txt"
+dataPTH = "Messwerte/TXT/VvonR.txt"
 
 # Palette Config
 load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
 set xlabel "Bahnradius in $\\si{}{pc}$" 
-set ylabel "V(R) in $\\si{}{\\frac{km}{s}$"
+set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
 
 
 f(x) = c
