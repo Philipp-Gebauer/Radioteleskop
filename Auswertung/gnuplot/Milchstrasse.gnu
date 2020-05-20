@@ -17,8 +17,8 @@ load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
 set xrange [x_min:x_max]
-set xlabel "x in $\\si{}{pc}$" 
-set ylabel "y in $\\si{}{pc}$"
+set xlabel "x in $\\si{}{kpc}$" 
+set ylabel "y in $\\si{}{kpc}$"
 
 
 # f(x) = c

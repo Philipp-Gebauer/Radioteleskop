@@ -17,7 +17,7 @@ load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
 set xrange [x_min:x_max]
-set xlabel "Bahnradius in $\\si{}{pc}$" 
+set xlabel "Bahnradius in $\\si{}{kpc}$" 
 set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
 set key at graph 0.5,0.5
 
