@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  21 MAY 2020 15:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  21 MAY 2020 19:40
 entering extended mode
 **"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
 ("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
@@ -813,23 +813,23 @@ File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -906,7 +906,7 @@ Dictionary: translator-basic-dictionary, Language: German
 ) ("C:\Program Files\MiKTeX 2.9-2\tex/latex/siunitx\siunitx-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-Package hyperref Info: Link coloring OFF on input line 3.
+Package hyperref Info: Link coloring OFF on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/refcount\refcount.sty"
@@ -916,9 +916,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 3.
-LaTeX Info: Redefining \pageref on input line 3.
-LaTeX Info: Redefining \nameref on input line 3.
+LaTeX Info: Redefining \ref on input line 2.
+LaTeX Info: Redefining \pageref on input line 2.
+LaTeX Info: Redefining \nameref on input line 2.
  ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out")
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -930,7 +930,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 3.
+(scrartcl)           before \begin{document} on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/bookmark\bookmark.sty"
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/bookmark\bkm-pdftex.def"
@@ -941,76 +941,89 @@ Package auxhook Info: \AddLineBeginMainAux comes a little late,
 ))
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 3.
-Package gensymb Info: Math companion symbols declared on input line 3.
-LaTeX Info: Redefining \degree on input line 3.
-LaTeX Info: Redefining \celsius on input line 3.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 3.
-LaTeX Info: Redefining \ohm on input line 3.
-Package gensymb Info: Using \textohm for \ohm on input line 3.
-LaTeX Info: Redefining \micro on input line 3.
-Package gensymb Info: Using \textmu for \micro on input line 3.
+(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 2.
+Package gensymb Info: Math companion symbols declared on input line 2.
+LaTeX Info: Redefining \degree on input line 2.
+LaTeX Info: Redefining \celsius on input line 2.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 2.
+LaTeX Info: Redefining \ohm on input line 2.
+Package gensymb Info: Using \textohm for \ohm on input line 2.
+LaTeX Info: Redefining \micro on input line 2.
+Package gensymb Info: Using \textmu for \micro on input line 2.
  ABD: EveryShipout initializing macros
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 3.
+(Font)              <10.95> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 3.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 3.
+LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 12.
+) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/title.tex"
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 12.
+(Font)              <10> on input line 7.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 7.
  [1
 
 
-{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc")
+{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/inhaltsverzeichnis.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc")
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenabbild.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+ [2]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/einleitung.tex")
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \newpage
+              [1] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/grundlagen.tex")pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \newpage
+              [2] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/aufbau.tex") [3] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/auswertung.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenabbild.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 \gptboxheight=\skip84
@@ -1028,16 +1041,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenabbild-eps-converted-to.pdf, id=26, 361.35pt x 252.945pt>
+<plots/Sonnenabbild-eps-converted-to.pdf, id=41, 361.35pt x 252.945pt>
 File: plots/Sonnenabbild-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenabbild-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenabbild-eps-converted-to.pdf  used on input line 115.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 
-      [1] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Az.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Az.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenkreuz_Az.eps>
@@ -1052,35 +1061,27 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenkreuz_Az-eps-converted-to.pdf, id=33, 361.35pt x 252.945pt>
+<plots/Sonnenkreuz_Az-eps-converted-to.pdf, id=42, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Az-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Az-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Az-eps-converted-to.pdf  used on input line 116.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.67 
-      [2 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Alt.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) [4 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Alt.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenkreuz_Alt.eps>
-(epstopdf)                    date: 2020-05-21 15:05:47
+(epstopdf)                    date: 2020-05-21 19:04:32
 (epstopdf)                    size: 19478 bytes
 (epstopdf)             Output file: <plots/Sonnenkreuz_Alt-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-21 14:50:51
+(epstopdf)                    date: 2020-05-21 19:14:09
 (epstopdf)                    size: 3707 bytes
 (epstopdf)             Command: <epstopdf --outfile=plots/Sonnenkreuz_Alt-eps-converted-to.pdf plots/Sonnenkreuz_Alt.eps>
 (epstopdf)             \includegraphics on input line 117.
-runsystem(epstopdf --outfile=plots/Sonnenkreuz_Alt-eps-converted-to.pdf plots/Sonnenkreuz_Alt.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <plots/Sonnenkreuz_Alt-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-05-21 15:05:56
-(epstopdf)                    size: 3707 bytes.
+Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenkreuz_Alt-eps-converted-to.pdf, id=42, 361.35pt x 252.945pt>
+<plots/Sonnenkreuz_Alt-eps-converted-to.pdf, id=52, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Alt-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Alt-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Alt-eps-converted-to.pdf  used on input line 117.
@@ -1100,12 +1101,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/VvonR-eps-converted-to.pdf, id=43, 361.35pt x 252.945pt>
+<plots/VvonR-eps-converted-to.pdf, id=53, 361.35pt x 252.945pt>
 File: plots/VvonR-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/VvonR-eps-converted-to.pdf>
 Package pdftex.def Info: plots/VvonR-eps-converted-to.pdf  used on input line 111.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [3 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Milchstrasse.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) [5 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Milchstrasse.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Milchstrasse.eps>
@@ -1120,7 +1121,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Milchstrasse-eps-converted-to.pdf, id=54, 361.35pt x 252.945pt>
+<plots/Milchstrasse-eps-converted-to.pdf, id=65, 361.35pt x 252.945pt>
 File: plots/Milchstrasse-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Milchstrasse-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Milchstrasse-eps-converted-to.pdf  used on input line 122.
@@ -1140,12 +1141,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Milchstrassesafe-eps-converted-to.pdf, id=55, 361.35pt x 252.945pt>
+<plots/Milchstrassesafe-eps-converted-to.pdf, id=66, 361.35pt x 252.945pt>
 File: plots/Milchstrassesafe-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Milchstrassesafe-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Milchstrassesafe-eps-converted-to.pdf  used on input line 122.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [4 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Belichtungszeit.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) [6 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Belichtungszeit.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Belichtungszeit.eps>
@@ -1160,12 +1161,12 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Belichtungszeit-eps-converted-to.pdf, id=67, 361.35pt x 252.945pt>
+<plots/Belichtungszeit-eps-converted-to.pdf, id=78, 361.35pt x 252.945pt>
 File: plots/Belichtungszeit-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Belichtungszeit-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Belichtungszeit-eps-converted-to.pdf  used on input line 124.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [5 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl"
+)) [7 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/tables.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl"
 babelbib: Using the BibTeX style's default font for `name'.
 babelbib: Using the BibTeX style's default font for `lastname'.
 babelbib: Using the BibTeX style's default font for `title'.
@@ -1185,28 +1186,32 @@ LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
+ ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot")
+\tf@lot=\write8
+\openout8 = `main.lot'.
+
+) [8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
  ) 
 Here is how much of TeX's memory you used:
- 29322 strings out of 480930
- 611978 string characters out of 2908615
+ 29373 strings out of 480930
+ 614209 string characters out of 2908615
  1005242 words of memory out of 3000000
- 44535 multiletter control sequences out of 15000+200000
+ 44557 multiletter control sequences out of 15000+200000
  623110 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,19n,83p,10202b,1414s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 67i,20n,83p,10202b,1414s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (8 pages, 297399 bytes).
+Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (10 pages, 300657 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 80 words of extra memory for PDF output out of 10000 (max. 10000000)
 

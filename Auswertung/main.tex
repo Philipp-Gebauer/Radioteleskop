@@ -1,109 +1,35 @@
 \input{header.tex}
- \begin{document}
- %---------------------------------------------------------------------------------------------%
- %------------------------------------------TITELSEITE-----------------------------------------%
- %---------------------------------------------------------------------------------------------%
- \title{Radioteleskopie}
- \subtitle{Physikalisches Fortgeschrittenenpraktikum an der Universität Konstanz}
- \author{Autoren: Philipp Gebauer und Simon Keegan \\ \large{Tutor: Stefan Schupp}}
- \date{Versuch durchgeführt am 13.05.2020}
- \maketitle
- \vspace{2.5 cm}
- \begin{abstract}
-     \noindent \textbf{Abstract:}\\
-     Place for the abstract. TODO!!
-     \vspace{1cm}
-     
-     \end{abstract}
- \thispagestyle{empty}
- \newpage
- 
- %---------------------------------------------------------------------------------------------%
- %------------------------------------------INHALTSVERZEICHNIS---------------------------------%
- %---------------------------------------------------------------------------------------------%
- \tableofcontents
- \thispagestyle{empty}
- \newpage
- \setcounter{page}{1}    
- %---------------------------------------------------------------------------------------------%
- %------------------------------------------DOKUMENTENKÖRPER-----------------------------------%
- %-----------------------------------------------------------
- 
- %----------------------------------%
-\section{Einleitung}
-\section{Grundlagen}
-Wie vorab besprochen wurden die folgenden Themen bereits während des Vorkolloquiums diskutiert und werden daher nicht weiter im Detail ausgeführt:
-\begin{itemize}
-    \item Hyperfeinstruktur im Wasserstoffatom
-    \begin{itemize}
-        \item[→] Wechselwirkung von Kern- und Elektronenspin, Entstehung der \SI{21}{\centi \metre}-Linie, deren Lebensdauer, Einfluss der \textsc{Doppler}-Verschiebung
-    \end{itemize}
-    \item Rotationsmodelle (differentiell, Kepler und starrer Körper) und deren Vorliegen in Milchstraße oder unserem Sonnensystem
-    \item Koordinatensysteme (Galaktisch, Horizontal und Äquatorial)
-    \begin{itemize}
-        \item[→] Wann sind welche Bereiche der Milchstraße am besten zu beobachten, sowie das Überprüfen via \textsc{Stellarium} 
-    \end{itemize}
-    \item Verständnis für die Größenordnungen
-    \begin{itemize}
-        \item[→] Milchstraße vs. Sonnensystem (Parsec [\si{\parsec}] und Lichtjahr [\si{\lightyear}])
-    \end{itemize}
-\end{itemize}
-\section{Aufbau und Durchführung des Versuchs}
-\begin{figure}[H]
-    \centering
-    \input{plots/Sonnenabbild.tex}
-    \caption{todo}
-    \label{fig:Sonnenabbild}
-\end{figure}
-
-
-\begin{figure}[H]
-    \centering
-    \input{plots/Sonnenkreuz_Az.tex}
-    \caption{todo}
-    \label{fig:Sonnenkreuz_Az}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \input{plots/Sonnenkreuz_Alt.tex}
-    \caption{todo}
-    \label{fig:Sonnenkreuz_Alt}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \input{plots/VvonR.tex}
-    \caption{todo}
-    \label{fig:VvonR}
-\end{figure}
-
-
-\begin{figure}[H]
-    \centering
-    \input{plots/Milchstrasse.tex}
-    \caption{todo}
-    \label{fig:Milchstrasse}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \input{plots/Milchstrassesafe.tex}   
-    \caption{todo}
-    \label{fig:Milchstrassesafe}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \input{plots/Belichtungszeit.tex}   
-    \caption{todo}
-    \label{fig:Belichtungszeit}
-\end{figure}
-
-
+\begin{document}
+%----------------------------------------------------------------%
+%----------------------Titelseite--------------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/title}
+%----------------------------------------------------------------%
+%----------------------Inhaltsverzeichnis------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/inhaltsverzeichnis}
+%----------------------------------------------------------------%
+%----------------------Einleitung--------------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/einleitung}
 \newpage
-\bibliography{literatur}
-\bibliographystyle{babalpha}
-\listoffigures
- 
+%----------------------------------------------------------------%
+%----------------------Grundlagen--------------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/grundlagen}
+\newpage
+%----------------------------------------------------------------%
+%----------------------Aufbau und Durchführung-------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/aufbau}
+\newpage
+%----------------------------------------------------------------%
+%----------------------Auswertung--------------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/auswertung}
+\newpage
+%----------------------------------------------------------------%
+%----------------------Verzeichnisse-----------------------------%
+%----------------------------------------------------------------%
+\input{Kapitel/tables}
 \end{document}
