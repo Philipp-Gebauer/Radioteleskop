@@ -400,6 +400,7 @@ INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
+INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
@@ -518,12 +519,14 @@ INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Aus
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\type1\public\lm\lmmi8.pfb
