@@ -4,5 +4,3 @@
 \contentsline {section}{\numberline {2}Grundlagen}{2}{section.2}%
 \contentsline {section}{\numberline {3}Aufbau und Durchführung des Versuchs}{3}{section.3}%
 \contentsline {section}{\numberline {4}Auswertung}{4}{section.4}%
-\babel@toc {ngerman}{}
-\babel@toc {ngerman}{}

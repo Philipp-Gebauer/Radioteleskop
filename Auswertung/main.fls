@@ -307,12 +307,6 @@ INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\bookmark\bookmark.sty
@@ -401,8 +395,6 @@ INPUT C:\Users\phili\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\einleitung.tex
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\einleitung.tex
@@ -524,13 +516,7 @@ INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Aus
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\tables.tex
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\tables.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
 OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
 INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out

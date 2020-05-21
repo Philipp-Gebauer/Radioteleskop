@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  21 MAY 2020 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  21 MAY 2020 19:45
 entering extended mode
 **"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
 ("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
@@ -919,7 +919,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 2.
 LaTeX Info: Redefining \pageref on input line 2.
 LaTeX Info: Redefining \nameref on input line 2.
- ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out")
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1006,7 +1005,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 
-{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/inhaltsverzeichnis.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc")
+{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/inhaltsverzeichnis.tex"
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1041,7 +1040,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenabbild-eps-converted-to.pdf, id=41, 361.35pt x 252.945pt>
+<plots/Sonnenabbild-eps-converted-to.pdf, id=36, 361.35pt x 252.945pt>
 File: plots/Sonnenabbild-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenabbild-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenabbild-eps-converted-to.pdf  used on input line 115.
@@ -1061,7 +1060,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenkreuz_Az-eps-converted-to.pdf, id=42, 361.35pt x 252.945pt>
+<plots/Sonnenkreuz_Az-eps-converted-to.pdf, id=37, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Az-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Az-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Az-eps-converted-to.pdf  used on input line 116.
@@ -1081,7 +1080,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Sonnenkreuz_Alt-eps-converted-to.pdf, id=52, 361.35pt x 252.945pt>
+<plots/Sonnenkreuz_Alt-eps-converted-to.pdf, id=48, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Alt-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Alt-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Alt-eps-converted-to.pdf  used on input line 117.
@@ -1101,7 +1100,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/VvonR-eps-converted-to.pdf, id=53, 361.35pt x 252.945pt>
+<plots/VvonR-eps-converted-to.pdf, id=49, 361.35pt x 252.945pt>
 File: plots/VvonR-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/VvonR-eps-converted-to.pdf>
 Package pdftex.def Info: plots/VvonR-eps-converted-to.pdf  used on input line 111.
@@ -1121,7 +1120,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrasse-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Milchstrasse-eps-converted-to.pdf, id=65, 361.35pt x 252.945pt>
+<plots/Milchstrasse-eps-converted-to.pdf, id=61, 361.35pt x 252.945pt>
 File: plots/Milchstrasse-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Milchstrasse-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Milchstrasse-eps-converted-to.pdf  used on input line 122.
@@ -1141,7 +1140,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Milchstrassesafe-eps-converted-to.pdf, id=66, 361.35pt x 252.945pt>
+<plots/Milchstrassesafe-eps-converted-to.pdf, id=62, 361.35pt x 252.945pt>
 File: plots/Milchstrassesafe-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Milchstrassesafe-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Milchstrassesafe-eps-converted-to.pdf  used on input line 122.
@@ -1161,32 +1160,16 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<plots/Belichtungszeit-eps-converted-to.pdf, id=78, 361.35pt x 252.945pt>
+<plots/Belichtungszeit-eps-converted-to.pdf, id=74, 361.35pt x 252.945pt>
 File: plots/Belichtungszeit-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Belichtungszeit-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Belichtungszeit-eps-converted-to.pdf  used on input line 124.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-)) [7 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/tables.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl"
-babelbib: Using the BibTeX style's default font for `name'.
-babelbib: Using the BibTeX style's default font for `lastname'.
-babelbib: Using the BibTeX style's default font for `title'.
-babelbib: Using the BibTeX style's default font for `jtitle'.
-babelbib: Using the BibTeX style's default font for `etal'.
-babelbib: Using the BibTeX style's default font for `journal'.
-babelbib: Using the BibTeX style's default font for `volume'.
-babelbib: Using the BibTeX style's default font for `ISBN'.
-babelbib: Using the BibTeX style's default font for `ISSN'.
-babelbib: Using the BibTeX style's default font for `url'.
-babelbib: Using the BibTeX style's default font for `numeral'.
-
-LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
-               before end of `thebibliography' environment on input line 15.
-
-) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof")
+)) [7 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf> <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/tables.tex"
+No file main.bbl.
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot")
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -1196,22 +1179,32 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
  ) 
 Here is how much of TeX's memory you used:
- 29373 strings out of 480930
- 614209 string characters out of 2908615
- 1005242 words of memory out of 3000000
- 44557 multiletter control sequences out of 15000+200000
+ 29355 strings out of 480930
+ 613017 string characters out of 2908615
+ 990781 words of memory out of 3000000
+ 44552 multiletter control sequences out of 15000+200000
  623110 words of font info for 96 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,20n,83p,10202b,1414s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (10 pages, 300657 bytes).
+Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (10 pages, 298288 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  80 words of extra memory for PDF output out of 10000 (max. 10000000)
 
