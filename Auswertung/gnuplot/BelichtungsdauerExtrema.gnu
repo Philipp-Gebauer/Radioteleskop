@@ -1,10 +1,10 @@
 #png
 #  set terminal png size 1024,720
-#  set output "pngplots/Belichtungszeit.png"
+#  set output "pngplots/BelichtungszeitExtrema.png"
 
 #epslatex
 set terminal epslatex # size 15 cm, 9 cm
-set output "plots/Belichtungszeit.tex"
+set output "plots/BelichtungszeitExtrema.tex"
 
 x_min = -230
 x_max = 300
@@ -23,8 +23,5 @@ set ylabel "Temperatur in $\\si{}{K}$"
 set xrange [x_min:x_max] 
 
 plot dataPTH1 using 1:2 with line ls 1 lw 2 title "$\\si{1}{s}$", \
-   dataPTH2 using 1:2 with line ls 3 lw 2 title "$\\si{3}{s}$", \
-    dataPTH3 using 1:2 with line ls 5 lw 2 title "$\\si{10}{s}$", \
      dataPTH4 using 1:2 with line ls 7 lw 2 title "$\\si{30}{s}$", \
-      dataPTH5 using 1:2 with line ls 9 lw 2 title "$\\si{100}{s}$", \
-      dataPTH6 using 1:2 with line ls 11 lw 2 title "$\\si{300}{s}$"
+      dataPTH6 using 1:2 with line ls 9 lw 2 title "$\\si{300}{s}$"
