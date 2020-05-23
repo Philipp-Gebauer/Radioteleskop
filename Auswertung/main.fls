@@ -481,20 +481,6 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.tex
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.tex
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
@@ -537,10 +523,28 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtre
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.tex
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.tex
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\tables.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\tables.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmtt10.tfm
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
@@ -552,10 +556,10 @@ INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lm
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.aux
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
-INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
@@ -569,7 +573,13 @@ INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb

@@ -10,13 +10,13 @@ Raster:	- definierter peak in der mitte -> punuktquelle: annahme ist richtig
 	- bestätigt sinc
 --> Paper nachschauen
 
-konstant gesch:	- vergelichmit literautr
+konstant gesch:	-  [done] vergelichmit literautr
 Darstellung:	- mit matlab datei vergleichen
-		- die mit mehr werten nehmen
+		-  [done] die mit mehr werten nehmen
 		- gaußplott beispiel
-		- ein plot zeigen mit b ungleich 0 -> damit man sieht, dass man größers b machen sollte
-		- werte weglassen mit mehr als eine positive lösung
-Belichtungszeit:- kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
+		- [done] ein plot zeigen mit b ungleich 0 -> damit man sieht, dass man größers b machen sollte
+		-  [done] werte weglassen mit mehr als eine positive lösung
+Belichtungszeit:-  [done] kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
 
 überall einstellungen immer dazuschreiben
 

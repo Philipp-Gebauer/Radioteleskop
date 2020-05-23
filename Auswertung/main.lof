@@ -3,10 +3,12 @@
 \contentsline {figure}{\numberline {4.1}{\ignorespaces todo\relax }}{4}{figure.caption.2}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces todo\relax }}{5}{figure.caption.3}%
 \contentsline {figure}{\numberline {4.3}{\ignorespaces todo\relax }}{5}{figure.caption.4}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces todo\relax }}{6}{figure.caption.5}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces todo\relax }}{6}{figure.caption.6}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Literaturwert \SI {220}{\frac {km}{s}} \cite {LSR}\relax }}{6}{figure.caption.5}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces - die mit mehr werten nehmen\relax }}{6}{figure.caption.6}%
 \contentsline {figure}{\numberline {4.6}{\ignorespaces todo\relax }}{7}{figure.caption.7}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces todo\relax }}{7}{figure.caption.8}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces todo\relax }}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces ein plot zeigen mit b ungleich 0 -> damit man sieht, dass man größers b machen sollte; Auf Gaußkurve wurde bei der Darstellung verzichtet aus gründen der lesbarkeit. Maxima sind bei \SI {2.4}{\frac {km}{s}}, \SI {-30.6}{\frac {km}{s}} und bei \SI {-69.7}{\frac {km}{s}}\relax }}{8}{figure.caption.9}%
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
 \babel@toc {ngerman}{}
 \babel@toc {ngerman}{}

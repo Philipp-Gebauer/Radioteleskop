@@ -1,4 +1,4 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{WC07}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -11,5 +11,16 @@
   \providebibliographyfont{url}{\url}%
   \providebibliographyfont{numeral}{}%
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{WC07}]{LSR}
+\btxnamefont {\btxlastnamefont {Wada}, K.} \btxandlong {}\ \btxnamefont {F.
+  \btxlastnamefont {Combes}}\btxauthorcolon\ \btxtitlefont {Mapping the Galaxy
+  and Nearby Galaxies}.
+\newblock Astrophysics and Space Science Proceedings. \btxpublisherfont
+  {Springer New York}, 2007\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {9780387727684}}}.
+\newblock {\latintext
+  \btxurlfont{https://books.google.de/books?id=bP9hZqoIfhMC}}.
 
 \end{thebibliography}
