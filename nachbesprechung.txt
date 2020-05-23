@@ -14,11 +14,10 @@ konstant gesch:	- vergelichmit literautr
 Darstellung:	- mit matlab datei vergleichen
 		- die mit mehr werten nehmen
 		- gaußplott beispiel
-		- Tabelle werte machen: länge, geschwindigkeit rel, abstand R, +-r, 
 		- ein plot zeigen mit b ungleich 0 -> damit man sieht, dass man größers b machen sollte
 		- werte weglassen mit mehr als eine positive lösung
-Belichtungszeit:	- einmal alle und einmal max und min-> schöner sehen
-			- kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
+Belichtungszeit:- kein krasser unterschied zwischen 30 und 100 s, deswegen 60s genommen
+
 überall einstellungen immer dazuschreiben
 
 
