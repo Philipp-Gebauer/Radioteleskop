@@ -13,6 +13,16 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{CH}]{Usermanual}
+\btxnamefont {\btxlastnamefont {Cathy~Horellou},~Daniel~Johansson,
+  Eskil\btxfnamespacelong Varenius\btxfnamespacelong Grzegorz\btxfnamespacelong
+  Klopotek}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Salsa user manual:
+  Telescope control and data analysis}{SALSA user manual: Telescope control and
+  data analysis}}.
+\newblock {\latintext
+  \btxurlfont{https://github.com/varenius/salsa/blob/master/User_manual/English/SALSA-USERMANUAL_English.pdf?raw=true}},
+  letztes Update: 2018-04-01 20:36.
+
 \bibitem [{WC07}]{LSR}
 \btxnamefont {\btxlastnamefont {Wada}, K.} \btxandlong {}\ \btxnamefont {F.
   \btxlastnamefont {Combes}}\btxauthorcolon\ \btxtitlefont {Mapping the Galaxy

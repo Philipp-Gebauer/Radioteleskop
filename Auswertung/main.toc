@@ -4,8 +4,4 @@
 \contentsline {section}{\numberline {2}Grundlagen}{2}{section.2}%
 \contentsline {section}{\numberline {3}Aufbau und Durchführung des Versuchs}{3}{section.3}%
 \contentsline {section}{\numberline {4}Auswertung Sonnenzeug}{4}{section.4}%
-\contentsline {section}{\numberline {5}Auswertung Milchstrasse}{6}{section.5}%
-\babel@toc {ngerman}{}
-\babel@toc {ngerman}{}
-\babel@toc {ngerman}{}
-\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {5}Auswertung Milchstraße}{6}{section.5}%
