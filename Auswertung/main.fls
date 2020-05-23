@@ -308,12 +308,6 @@ INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.pdf
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
@@ -402,8 +396,6 @@ INPUT C:\Users\simon\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.toc
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\einleitung.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\einleitung.tex
@@ -509,8 +501,6 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Belichtungszeit.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Belichtungszeit.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
@@ -541,14 +531,10 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtre
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\tables.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\tables.tex
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.bbl
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lot
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lot
 OUTPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.lot
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx8.tfm
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx5.tfm
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.aux
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\main.out
