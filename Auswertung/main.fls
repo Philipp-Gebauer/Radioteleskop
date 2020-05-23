@@ -412,8 +412,8 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\grundlagen.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\aufbau.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\aufbau.tex
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertung.tex
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertung.tex
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertungSonne.tex
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertungSonne.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
@@ -467,6 +467,8 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertungMilchstraße.tex
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\Kapitel\auswertungMilchstraße.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
@@ -481,6 +483,20 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.tex
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.tex
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
+INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse.eps
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
+INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrasse-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
 INPUT C:\Users\simon\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\cp1252.def
@@ -543,8 +559,6 @@ INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline.eps
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline.eps
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
 INPUT c:\Users\simon\Desktop\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
