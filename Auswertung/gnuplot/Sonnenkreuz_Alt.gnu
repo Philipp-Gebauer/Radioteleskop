@@ -16,12 +16,6 @@ set xlabel "Altitude offset relative to the Sun [$\\si{}{\\degree}$]"
 set ylabel "Continuum intensity [arbitrary units]"
 set xrange [x_min:x_max]
 
-# f(x) = a + (1/((2*pi*s)**(1/2)))*exp(-(x-d)**2/(2*s**2))
-# a = 401
-# s = -411
-# d = -171
-# fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d
-
 f(x) = (1/((2*pi)**(1/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
 a = 312.002
 s = 2.38898
@@ -31,11 +25,8 @@ fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 # fit f(x) dataPTH using 1:($3*1000):2:($4*1000) xyerrors via a,s,d
 
 #hiermüsstest du dein maximum auswählen. Hier ist es hat mit der Standardabweichung s gemacht
-#set arrow from d-s,f(d-s) to d+s,f(d+s) heads
-set arrow from d-(s*2*(2*log(2))**(1/2)),f(d-(s*2*(2*log(2))**(1/2))) to d+(s*2*(2*log(2))**(1/2)),f(d+(s*2*(2*log(2))**(1/2))) heads
-# set label sprintf("width: \\SI{%.1f}{\\degree}",(2*s)) at -2,550
-#set label sprintf("width: \\SI{%.1f \\pm %.1f}{\\degree}",(2*s),(2*s_err)) at -2,550
-set label sprintf("width: \\SI{%.1f \\pm %.1f}{\\degree}",(2*(2*log(2))**(1/2)*s),(2*(2*log(2))**(1/2)*s_err)) at -2,550
+set arrow from d-(s*(2*log(2))**(1.0/2)),f(d-(s*(2*log(2))**(1.0/2))) to d+(s*(2*log(2))**(1.0/2)),f(d+(s*(2*log(2))**(1.0/2))) heads
+set label sprintf("width: \\SI{%.1f \\pm %.1f}{\\degree}",(2*(2*log(2))**(1.0/2)*s),(2*(2*log(2))**(1.0/2)*s_err)) at d-s,508
 
 #p = a+c*exp(d/t)
 #set label sprintf("$\\tau$(0 mW) = \\SI{%.3f}{ms}", f(0)) at graph 0.6, 0.6
