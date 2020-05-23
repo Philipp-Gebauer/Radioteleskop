@@ -35,4 +35,4 @@ set ytics 5
  #d = 1e-03
 #  fit [x_min:x_max] f(x) dataPTH using 1:2 via a,c,d,t
 
-plot dataPTH u 1:2 ls 2 ps 3 lw 3 notitle
+plot dataPTH u 1:2 ls 2 ps 2 pt 1 lw 3 notitle
