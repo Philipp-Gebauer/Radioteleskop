@@ -5,3 +5,7 @@
 \contentsline {section}{\numberline {3}Aufbau und Durchführung des Versuchs}{3}{section.3}%
 \contentsline {section}{\numberline {4}Auswertung Sonnenzeug}{4}{section.4}%
 \contentsline {section}{\numberline {5}Auswertung Milchstraße}{6}{section.5}%
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}

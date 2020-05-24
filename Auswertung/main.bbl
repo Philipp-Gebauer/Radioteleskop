@@ -1,4 +1,4 @@
-\begin{thebibliography}{WC07}
+\begin{thebibliography}{HJVK}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -13,22 +13,23 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
-\bibitem [{CH}]{Usermanual}
-\btxnamefont {\btxlastnamefont {Cathy~Horellou},~Daniel~Johansson,
-  Eskil\btxfnamespacelong Varenius\btxfnamespacelong Grzegorz\btxfnamespacelong
-  Klopotek}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Salsa user manual:
-  Telescope control and data analysis}{SALSA user manual: Telescope control and
-  data analysis}}.
+\bibitem [{HJVK}]{Usermanual}
+\btxnamefont {\btxlastnamefont {{Horellou, Cathy}}}, \btxnamefont
+  {\btxlastnamefont {{Johansson, Daniel}}}, \btxnamefont {\btxlastnamefont
+  {{Varenius, Eskil}}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Klopotek, Grzegorz}}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Salsa user manual: Telescope control and data
+  analysis}{SALSA user manual: Telescope control and data analysis}}.
 \newblock {\latintext
   \btxurlfont{https://github.com/varenius/salsa/blob/master/User_manual/English/SALSA-USERMANUAL_English.pdf?raw=true}},
   letztes Update: 2018-04-01 20:36.
 
 \bibitem [{WC07}]{LSR}
-\btxnamefont {\btxlastnamefont {Wada}, K.} \btxandlong {}\ \btxnamefont {F.
-  \btxlastnamefont {Combes}}\btxauthorcolon\ \btxtitlefont {Mapping the Galaxy
-  and Nearby Galaxies}.
+\btxnamefont {\btxlastnamefont {{Wada, K.}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Combes, F.}}}\btxauthorcolon\ \btxtitlefont {Mapping the
+  Galaxy and Nearby Galaxies}.
 \newblock Astrophysics and Space Science Proceedings. \btxpublisherfont
-  {Springer New York}, 2007\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {Springer}, New York, 2007\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
   {9780387727684}}}.
 \newblock {\latintext
   \btxurlfont{https://books.google.de/books?id=bP9hZqoIfhMC}}.
