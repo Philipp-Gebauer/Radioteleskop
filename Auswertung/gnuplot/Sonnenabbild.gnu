@@ -3,8 +3,8 @@ set terminal png size 1024,720
 set output "pngplots/Sonnenabbild.png"
 
 #epslatex
-# set terminal epslatex
-# set output "plots/Sonnenabbild.tex"
+ #set terminal epslatex
+ #set output "plots/Sonnenabbild.tex"
 
 x_min = -8.3e-03
 x_max = -2e-03
@@ -17,11 +17,18 @@ load "jet.pal"
 #set title "Abbildung der Sonne"
 #set xrange [x_min:x_max]
 set zrange [z_min:z_max]
+#set xrange [-10:10]
+#set yrange [-10:10]
 set xlabel "Azimuth offset in $\\degree$" offset 0,-1 rotate parallel
 set ylabel "Altitude offset in $\\degree$" offset 0,-1 rotate parallel
 set zlabel "Temperatur in $\\si{}{K}$" rotate parallel
-set dgrid3d 100,100
+set dgrid3d 101,101
 set hidden3d
+set ztics 50
+set ticslevel 0.05
+set cbrange [300:700]
+unset colorbox
+#set pm3d #füllt mit farbe
 #set datafile separator ","
 
  #f(x) = a + c*exp(-(x-d)/t)
@@ -31,4 +38,4 @@ set hidden3d
 #  fit [x_min:x_max] f(x) dataPTH using 1:2 via a,c,d,t
 
 # set label sprintf("$\\tau$ = \\SI{%.7f \\pm %.7f}{s}", t, t_err) at graph 0.5, 0.5
-splot dataPTH u 1:2:4 with lines notitle
+splot dataPTH u 1:2:4 with lines notitle linecolor palette
