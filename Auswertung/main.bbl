@@ -14,12 +14,12 @@
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 \bibitem [{HJVK}]{Usermanual}
-\btxnamefont {\btxlastnamefont {{Horellou, Cathy}}}, \btxnamefont
-  {\btxlastnamefont {{Johansson, Daniel}}}, \btxnamefont {\btxlastnamefont
-  {{Varenius, Eskil}}}\btxandcomma {} \btxandlong {}\ \btxnamefont
-  {\btxlastnamefont {{Klopotek, Grzegorz}}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Salsa user manual: Telescope control and data
-  analysis}{SALSA user manual: Telescope control and data analysis}}.
+\btxnamefont {\btxlastnamefont {Horellou}, Cathy}, \btxnamefont {Daniel
+  \btxlastnamefont {Johansson}}, \btxnamefont {Eskil \btxlastnamefont
+  {Varenius}}\btxandcomma {} \btxandlong {}\ \btxnamefont {Grzegorz
+  \btxlastnamefont {Klopotek}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase
+  {Salsa user manual: Telescope control and data analysis}{SALSA user manual:
+  Telescope control and data analysis}}.
 \newblock {\latintext
   \btxurlfont{https://github.com/varenius/salsa/blob/master/User_manual/English/SALSA-USERMANUAL_English.pdf?raw=true}},
   letztes Update: 2018-04-01 20:36.
