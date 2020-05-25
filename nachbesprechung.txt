@@ -1,10 +1,10 @@
-kreuz:	- Selber keine Einheit, daher arbitrary intensity oder Temperatur
-	- peak liegt nicht genau bei null. -> Tracking = ca. Unsicherheit des Teleskops (Offset d)
-	- sonne fungiert als punktquelle --> sinc-funktion (Kreisblende
-	- durchmesser der schüssel aus frequenz und halbwertsbreite berechnen (ca. 2m)!!
-	- fwhm: damit  kann man auflösungsvermögen von teleskop bestimmen und als horizontale Linie reinplotten mit \sigma Wert
+kreuz:	- [done] Selber keine Einheit, daher arbitrary intensity oder Temperatur
+	- [done] peak liegt nicht genau bei null. -> Tracking = ca. Unsicherheit des Teleskops (Offset d)
+	- [done] sonne fungiert als punktquelle --> sinc-funktion (Kreisblende
+	- [done] durchmesser der schüssel aus frequenz und halbwertsbreite berechnen (ca. 2m)!!
+	- [done] fwhm: damit  kann man auflösungsvermögen von teleskop bestimmen und als horizontale Linie reinplotten mit \sigma Wert
 		--> wie weit müssen objekte von einander entfernt sein um sie auflösen zu können
-	- standardabweichung einfach nur angeben
+	- [done] standardabweichung einfach nur angeben
 Raster:	- definierter peak in der mitte -> punuktquelle: annahme ist richtig
 	- Maxima bei frequenz nehmen
 	- bestätigt sinc
