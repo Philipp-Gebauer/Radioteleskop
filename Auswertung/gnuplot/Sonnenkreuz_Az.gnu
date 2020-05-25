@@ -26,7 +26,10 @@ fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 
 #hiermüsstest du dein maximum auswählen. Hier ist es hat mit der Standardabweichung s gemacht
 set arrow from d-(s*(2*log(2))**(1.0/2)),f(d-(s*(2*log(2))**(1.0/2))) to d+(s*(2*log(2))**(1.0/2)),f(d+(s*(2*log(2))**(1.0/2))) heads
-set label sprintf("width: \\SI{%3.2f \\pm %3.2f}{\\degree}",(2*(2*log(2))**(1.0/2)*s),(2*(2*log(2))**(1.0/2)*s_err)) at 6, 505
+set label sprintf("FWHM = \\SI{%3.2f \\pm %3.2f}{\\degree}",(2*(2*log(2))**(1.0/2)*s),(2*(2*log(2))**(1.0/2)*s_err)) at 6, 505
+set arrow from d,f(s+d) to s+d,f(s+d) heads
+set label sprintf("\\sigma =  \\SI{%4.3f \\pm %4.3f}{\\degree}",(s),(s_err)) at 6,540
+set arrow from d,300 to d,700 nohead
 
 #set label sprintf("$\\tau$(0 mW) = \\SI{%.3f}{ms}", f(0)) at graph 0.6, 0.6
 plot dataPTH using 1:4 ls 2 ps 3 lw 3 title "measured data", f(x) ls 8 lw 3 title "gaussian fit"
