@@ -35,6 +35,14 @@
   Heidelberg, 2013\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
   {978-3-662-03215-2}}}.
 
+\bibitem [{Var}]{AntennaResp}
+\btxnamefont {\btxlastnamefont {Varenius}, Eskil}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Salsa project documentation: Antenna response using the
+  sun}{SALSA project documentation: Antenna response using the Sun}}.
+\newblock {\latintext
+  \btxurlfont{https://fp.physik.uni-konstanz.de/docs/SALSAremote/SALSA-BEAM_English.pdf}},
+  letztes Update: 2014-12-24 19:49.
+
 \bibitem [{WC07}]{LSR}
 \btxnamefont {\btxlastnamefont {{Wada, K.}}} \btxandlong {}\ \btxnamefont
   {\btxlastnamefont {{Combes, F.}}}\btxauthorcolon\ \btxtitlefont {Mapping the
