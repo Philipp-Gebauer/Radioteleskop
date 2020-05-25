@@ -16,7 +16,7 @@ dataPTH3 = "Messwerte/TXT/Ml78b2.txt"
 # Palette Config
 load "jet.pal"
 set xlabel "velocity relative to LSR in $\\si{}{\\frac{km}{s}}$"
-set ylabel "Temperatur in $\\si{}{K}$"
+set ylabel "temperature in $\\si{}{K}$"
 set xrange [x_min:x_max] 
 
 

@@ -17,7 +17,7 @@ load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
 set xrange [x_min:x_max]
-set xlabel "Bahnradius in $\\si{}{kpc}$" 
+set xlabel "distance from galactic center in $\\si{}{kpc}$" 
 set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
 set key at graph 0.5,0.5
 
@@ -31,4 +31,4 @@ fit [y_min:y_max] f(x) dataPTH using 1:2 via c
  #d = 1e-03
 #  fit [x_min:x_max] f(x) dataPTH using 1:2 via a,c,d,t
 
-plot dataPTH u 1:2 ls 2 ps 3 lw 3 title "constant velocity", f(x) ls 8 lw 3 title "linear fit"
+plot dataPTH u 1:2 ls 2 ps 3 lw 3 title "calculated data", f(x) ls 8 lw 3 title "linear fit"
