@@ -4,20 +4,26 @@
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenabbild.tex}
-        \caption[Raster-Scan der Sonne]{Diese Abbildung zeigt den den $5 \times 5$ Raster-Scan der Sonne. Dabei wird deutlich, dass in den dunkelblau gefärbten Bereichen von $>\vert \SI{3}{\degree}\vert$ Offset sowohl in Altitude wie in Azimuth eine Grundintensität -- hier in \si{\kelvin} gemessen -- vorliegt. Je kleiner der relative Offset zur im Zentrum fokussierten Sonne, desto höherer der Intensitätsgradient. Die Sonne als Punktquelle aufzufassen wird durch das ausgeprägte Intensitätsmaximum bei $\SI{0}{\degree}$ azimuthalem und Höhenoffset legitimiert.}
+        \caption[Raster-Scan der Sonne]{Diese Abbildung zeigt den $5 \times 5$-Raster-Scan der Sonne. Dabei wird deutlich, dass in den dunkelblau gefärbten Bereichen von $>\vert \SI{3}{\degree}\vert$ Offset sowohl in Altitude wie in Azimuth eine Grundintensität -- hier in \si{\kelvin} gemessen -- vorliegt. Je kleiner der relative Offset zur im Zentrum fokussierten Sonne, desto höher wird der Intensitätsgradient. Die Sonne als Punktquelle aufzufassen wird durch das ausgeprägte Intensitätsmaximum bei $\SI{0}{\degree}$ azimuthalem und Höhenoffset legitimiert. Zudem fällt auf, dass bei $\SI{0}{\degree}$ Höhenffset und $\vert\SI{5}{\degree}\vert$ azimuthalem Offset erhöhte Intensitätswerte vorliegen, was in entsprechender Altitude-Ausrichtung nicht zu erkennen ist.}
         \label{fig:Sonnenabbild}
     \end{figure}
 
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenkreuz_Az.tex}
-        \caption[Kreuz-Scan der Sonne, Azimuthaler Offset]{Die Abbildung verdeutlicht den Verlauf der Datenpunkte gemäß einer $\sinc$-Funktion. Dies bestätigt die Annahme das Radioteleskop als Lochblende aufzufassen, deren Öffnungsfunktion einer $\sinc$-Funktion entspricht. Zudem }
+        \caption[Kreuz-Scan der Sonne, Azimuthaler Offset]{Die Abbildung verdeutlicht den Verlauf der Datenpunkte gemäß einer $\sinc$-Funktion. Dies bestätigt die Annahme das Radioteleskop als Lochblende aufzufassen, deren Öffnungsfunktion einer $\sinc$-Funktion entspricht. Zudem lässt sich mittels \textSC{Gauß}-Fit drei charakteristische Größen ermitteln: Die Standardabweichung $\sigma$ als direktes Ergebnis des Fits mit \textsc{Gauß}scher Fehlerfunktion. Die als spektrales Auflösungsvermögen zu verstehende FWHM welche nach \cite{wiki:FWHM} direkt aus $\text{FWHM} = 2\sqrt{2\ln(2)} \, \sigma$ zu berechnen ist. Zudem kann ebendalls direkt aus dem \textsc{Gaus}-Fit die Positioniergenauigkeit des Teleskops welche auch als intrinsische Unsicherheit $d$ verstanden wird abgelesen werden. Sie beziffert sich auf $d = \SI{0.968 \pm 0.047}{\degree}$.}
         \label{fig:Sonnenkreuz_Az}
     \end{figure}
 
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenkreuz_Alt.tex}
-        \caption[Kreuz-Scan der Sonne, Altitude Offset]{todo}
+        \caption[Kreuz-Scan der Sonne, Altitude Offset]{Analog zu Abbildung \ref{fig:Sonnenkreuz_Az} ist hier die Messung bei variiertem Altitude-Offset dargestellt. Die Standardabweichung, FWHM, sowie intrinsische Unsicherheit ($d = \SI{0.984 \pm 0.048}{\degree}$) berechnen sich entsprechend.}
         \label{fig:Sonnenkreuz_Alt}
     \end{figure}
+
+    Anhand der gewonnen Werte des Auflösungsvermögens (FWHM) aus den beiden Messreihen konnte nach dem \textsc{Rayleigh}-Kriterium mittels folgender Gleichung auf den Durchmesser des Teleskops geschlossen werden \cite{Karttunen2013}:
+    \begin{align}
+        \Theta = 1.22 \frac{\lambda}{D} \approx \ang{;;2.52} \times \frac{\lambda}{\SI{100}{\nano \metre}} \frac{\SI{1}{\centi \metre}}{D} = \SI{70}{\degree} \frac{\lambda}{D}\\
+        \Leftrightarrow D = 70 \frac{\lambda}{\theta}
+    \end{align}

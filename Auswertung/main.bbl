@@ -1,4 +1,5 @@
-\begin{thebibliography}{HJVK}
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{KKO{\etalchar{+}}13}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -34,6 +35,16 @@
   \btxurlfont{https://github.com/varenius/salsa/blob/master/User_manual/English/SALSA-USERMANUAL_English.pdf?raw=true}},
   letztes Update: 2018-04-01 20:36.
 
+\bibitem [{KKO{\etalchar{+}}13}]{Karttunen2013}
+\btxnamefont {\btxlastnamefont {Karttunen}, Hannu}, \btxnamefont {Pekka
+  \btxlastnamefont {Kröger}}, \btxnamefont {Heikki \btxlastnamefont {Oja}},
+  \btxnamefont {Markku \btxlastnamefont {Poutanen}}\btxandcomma {} \btxandlong
+  {}\ \btxnamefont {Karl\btxfnamespacelong J. \btxlastnamefont
+  {Donner}}\btxauthorcolon\ \btxtitlefont {Fundamental Astronomy}.
+\newblock \btxpublisherfont {Springer Science \& Business Media}, Berlin
+  Heidelberg, 2013\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {978-3-662-03215-2}}}.
+
 \bibitem [{Var}]{AntennaResp}
 \btxnamefont {\btxlastnamefont {Varenius}, Eskil}\btxauthorcolon\ \btxtitlefont
   {\btxifchangecase {Salsa project documentation: Antenna response using the
@@ -51,5 +62,14 @@
   {9780387727684}}}.
 \newblock {\latintext
   \btxurlfont{https://books.google.de/books?id=bP9hZqoIfhMC}}.
+
+\bibitem [{Wik18}]{wiki:FWHM}
+\btxnamefont {\btxlastnamefont {Wikipedia}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Halbwertsbreite --- wikipedia{,} die freie
+  enzyklopädie}{Halbwertsbreite --- Wikipedia{,} Die freie Enzyklopädie}},
+  2018.
+\newblock {\latintext
+  \btxurlfont{https://de.wikipedia.org/w/index.php?title=Halbwertsbreite&oldid=182539858}},
+  [Online; Stand 26. Mai 2020].
 
 \end{thebibliography}
