@@ -13,6 +13,16 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{HJV}]{H1}
+\btxnamefont {\btxlastnamefont {Horellou}, Cathy}, \btxnamefont {Daniel
+  \btxlastnamefont {Johansson}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Eskil \btxlastnamefont {Varenius}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Salsa project documentation: Mapping the milky way}{SALSA
+  project documentation: Mapping the Milky Way}}.
+\newblock {\latintext
+  \btxurlfont{https://github.com/varenius/salsa/blob/master/Lab_instructions/HI/English/SALSA-HI_English.pdf?raw=true}},
+  letztes Update: 2015-12-09 11:53.
+
 \bibitem [{HJVK}]{Usermanual}
 \btxnamefont {\btxlastnamefont {Horellou}, Cathy}, \btxnamefont {Daniel
   \btxlastnamefont {Johansson}}, \btxnamefont {Eskil \btxlastnamefont

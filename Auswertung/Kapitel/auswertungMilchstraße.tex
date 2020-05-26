@@ -23,42 +23,42 @@ Mithilfe eines MatLab Scripts wird das Untergrundrauschen der einzelnen Spektren
     \caption[Gemessenes Beispielspektrum zur Darstellung der Verarbeitung der Daten]{Gemessenes Beispielspektrum zur Darstellung der Verarbeitung der Daten. Da bei den Messungen stets ein Untergrundrauschen mitgemessen wird, muss dieses mithilfe eines Computerprogramms herausgefiltert werden. Mithilfe eines MatLab-Skripts sind die Spektren jeweils noch mit Gaußfunktionen gefittet. So lassen sich die Maxima deutlich erkennen und auslesen. In diesem Fall handelt es sich um eine Messung bei $l = \SI{30}{\degree}, \, b = \SI{0}{\degree}$ und die beiden Maxima liegen bei \SI{7.3}{\frac{km}{s}} und \SI{-64.8}{\frac{km}{s}} relativ zu LSR.}
     \label{fig:TestBaseline}
 \end{figure}
-Bevor die Milchstraße allerdings katografiert wird, soll zunächst die Rotationsgeschwindigkeit einzelner Punkte in der Galaxie untersicht werden. Hierfür wird aus den maximal verschobenen Maxima $V_{r,max}$ der Geschwindigkeiten aus dem ersten Quadranten hin zu positiven Werten jeweils die Geschwindigkeit relativ zu LSR ausgelesen. Da es sich bei diesen Maxima um Tangenpunkte handelt kann der Radius $R$ zum Zentrum der Milchstraße wiefolgt ermittelt werden \cite{Usermanual}:
+Bevor die Milchstraße allerdings katografiert wird, soll zunächst die Rotationsgeschwindigkeit einzelner Punkte in der Galaxie untersicht werden. Hierfür wird aus den maximal verschobenen Maxima $V_{r,max}$ der Geschwindigkeiten aus dem ersten Quadranten hin zu positiven Werten jeweils die Geschwindigkeit relativ zu LSR ausgelesen. Da es sich bei diesen Maxima um Tangenpunkte handelt kann der Radius $R$ zum Zentrum der Milchstraße wiefolgt ermittelt werden \cite{H1}:
 \begin{align}
     R = R_0 \cdot \sin(l) \ .
     \label{eq:TangenteR}
 \end{align}
-Hierbei ist $R_0 = \si{8.5}{kpc}$ der Abstand der Sonne zum Zentrum der Milchstraße. Die Werte für $R$ lassen sich aus der Tabelle \ref{tab: erster Quadrant} entnehmen. Mithilfe von $R$ lässt sich nun auch die Geschwindigkeit mit folgender Gleichung \cite{Usermanual}:
+Hierbei ist $R_0 = \si{8.5}{kpc}$ der Abstand der Sonne zum Zentrum der Milchstraße. Die Werte für $R$ lassen sich aus der Tabelle \ref{tab: erster Quadrant} entnehmen. Mithilfe von $R$ lässt sich nun auch die Geschwindigkeit mit folgender Gleichung \cite{H1}:
 \begin{align}
     V = V_{r,max} + V_0 \cdot \sin(l)
     \label{eq:V(R)}
 \end{align}
-ermitteln. Die Werte dafür können ebenfalls wieder der Tabelle \ref{tab: erster Quadrant} entnommen werden. Die Abbildung \ref{fig:VvonR} zeigt nun die Rotationsgeschwindigkeiten aufgetragen über den jeweilgen berechneten Bahnradius. Dabei ist ersichtlich, dass diese nahezu linear angeordnet sind. Mithilfe eines linearen Fits lässt sich der Mittelwert von $\SI{210.9 \pm 3.1}{\frac{km}{s}}$ ausmachen, welcher sehr nahe dem Literaturwert von $\SI{220}{\frac{km}{s}}$ \cite{LSR} kommt. Ein linearer Verlauf ist für Rotationsgeschwindigkeiten von Planeten ungewöhnlich, da eigentlich entweder ein linearer Zusammenhang ($V \sim R$) wie bei einem starren Körper oder ein $V \sim\frac{1}{\sqrt{R}}$ wie bei einer Zentralmasse zu erwarten ist. Die konstante Geschwindigkeit lässt sich nur auf eine unbekannte Energie und Masse (dunkle Energie/Masse) zurückführen, welche die Massen zusammenhält.
+ermitteln. Die Werte dafür können ebenfalls wieder der Tabelle \ref{tab: erster Quadrant} entnommen werden. Die Abbildung \ref{fig:VvonR} zeigt nun die Rotationsgeschwindigkeiten aufgetragen über den jeweilgen berechneten Bahnradius. Dabei ist ersichtlich, dass diese nahezu linear angeordnet sind. Mithilfe eines linearen Fits lässt sich der Mittelwert von $\SI{210.9 \pm 3.1}{\frac{km}{s}}$ ausmachen, welcher sehr nahe dem Literaturwert von $\SI{220}{\frac{km}{s}}$ \cite{LSR} kommt. Ein linearer Verlauf ist für Rotationsgeschwindigkeiten von Planeten ungewöhnlich, da eigentlich entweder ein linearer Zusammenhang ($V \sim R$) wie bei einem starren Körper oder ein $V \sim\frac{1}{\sqrt{R}}$ wie bei einer Zentralmasse zu erwarten ist. Die konstante Geschwindigkeit lässt sich nur auf eine unbekannte Energie und Masse (dunkle/schwarze  Energie/Masse) zurückführen, welche die Massen zusammenhält.
 \begin{figure}[H]
     \centering
     \input{plots/VvonR.tex}
     \caption[Rotationskurve der Milchstraße]{Dargestellt ist eine Rotationskurve der Milchstraße. Die eingetragenen Datenpunkte sind jeweils aus dem Peak der maximal verschobenen Geschwindigkeitskomponente der gemessenen Geschwindigkeitsspekra aus dem ersten Quadranten gewonnen. Es ist deutlich zu erkennen, dass die Geschwindigkeit $V(R)$ nahezu unabhängig von dem Bahnradius ist. Mit einem linearen fit ist dies in der Abbildung nochmals verdeutlicht. Der Ordinatenabschnitt kennzeichnet dabei den Mittelwert der gemessenen Geschwindigkeiten. Dieser beträgt $\SI{210.9 \pm 3.1}{\frac{km}{s}}$ und kommt dem einem Literaturwert von $\SI{220}{\frac{km}{s}}$ \cite{LSR} sehr nahe. Einen exakten Literaturwert für die Geschwindigkeit zu finden ist nicht möglich, da dieser bei verschiedenen Quellen unterschiedlich angegeben wird. Jedoch wird immer ein Wert um $\SI{220}{\frac{km}{s}}$ angegeben.}
     \label{fig:VvonR}
 \end{figure}
-Da die Rotationsgeschwindigkeit nahezu konstant ist, wird im Folgenden eine Geschwindigkeit von $V(R) = V_0 = \si{220}{\frac{km}{s}}$ angenommen. MIthilfe dieser Annahme kann nun für jedes Maxima aus den Spektren der jeweilge Radius $R$ wiefolgt ermittelt werden \cite{Usermanual}:
+Da die Rotationsgeschwindigkeit nahezu konstant ist, wird im Folgenden eine Geschwindigkeit von $V(R) = V_0 = \si{220}{\frac{km}{s}}$ angenommen. MIthilfe dieser Annahme kann nun für jedes Maxima aus den Spektren der jeweilge Radius $R$ wiefolgt ermittelt werden \cite{H1}:
 \begin{align}
     R =\frac{R_0 \cdot V_0 \cdot \sin(l)}{V_0 \cdot \sin(l) + V_r} \ .
     \label{eq:BerechnungR}
 \end{align}
 Hierbei ist $V_r$ das jeweilge Maximum im Spektrum relativ zu LSR.\newline
-Mit $R$ kann nun mithilfe des Cosinussatzes ein Ausdruck für $r$ (Abstand Sonne-Wasserstoffwolke) ermittelt werden \cite{Usermanual}:
+Mit $R$ kann nun mithilfe des Cosinussatzes ein Ausdruck für $r$ (Abstand Sonne-Wasserstoffwolke) ermittelt werden \cite{H1}:
 \begin{align}
     r_{\pm} = \pm \sqrt{R^2 - R_0^2 \cdot \sin(l)^2} + R_o \cdot \cos(l) \ .
     \label{eq:Berechnungr}
 \end{align}
-Negative Werte für $r$ können vernachlässigt werden, da dies bedeutet, dass sie sich hinter der Sonne befinden würden \cite{Usermanual}. Da es im ersten Quadranten ($ \si{0}{\degree} \le l \le \si{90}{\degree}$) allerdings mehrere positive Lösungen für $r$ gibt, muss eine genauere Untersuchung der Beobachtungsrichtung gemacht werden. Hierfür wird die galaktische Breite $b$ variiert. Somit sollten Wasserstoffwolken welche weiter weg sind nicht mehr als Peak im Spektrum sichbar sein, da sie dann außerhalb des Beobachtungsfensters liegen. Die Abbildung \ref{fig:bungleichnull} zeigt exemplarisch eine Aufnahmen bei $b \neq 0$. Es ist erkennbar das trotz der Wahl von $b = \pm 2$ dennoch alle Maxima ersichtlich sind. Somit kann keine weitere Aussage über $r$ getroffen werden. Da am Versuchstag allerdings nur Untersuchungen bis $b = \pm 2$ gemacht worden sind, wird auf alle Werte für die zwei positive Ergebnisse für $r$ existieren verzichtet. Für alle anderen Werte lassen sich die Ergebnisse für $r_{\pm}$ aus den Tabellen \ref{tab: erster Quadrant}, \ref{tab: zweiter Quadrant1} und \ref{tab: zweiter Quadrant2} entnehmen.
+Negative Werte für $r$ können vernachlässigt werden, da dies bedeutet, dass sie sich hinter der Sonne befinden würden \cite{H1}. Da es im ersten Quadranten ($ \si{0}{\degree} \le l \le \si{90}{\degree}$) allerdings mehrere positive Lösungen für $r$ gibt, muss eine genauere Untersuchung der Beobachtungsrichtung gemacht werden. Hierfür wird die galaktische Breite $b$ variiert. Somit sollten Wasserstoffwolken welche weiter weg sind nicht mehr als Peak im Spektrum sichbar sein, da sie dann außerhalb des Beobachtungsfensters liegen. Die Abbildung \ref{fig:bungleichnull} zeigt exemplarisch eine Aufnahmen bei $b \neq 0$. Es ist erkennbar das trotz der Wahl von $b = \pm 2$ dennoch alle Maxima ersichtlich sind. Somit kann keine weitere Aussage über $r$ getroffen werden. Da am Versuchstag allerdings nur Untersuchungen bis $b = \pm 2$ gemacht worden sind, wird auf alle Werte für die zwei positive Ergebnisse für $r$ existieren verzichtet. Für alle anderen Werte lassen sich die Ergebnisse für $r_{\pm}$ aus den Tabellen \ref{tab: erster Quadrant}, \ref{tab: zweiter Quadrant1} und \ref{tab: zweiter Quadrant2} entnehmen.
 \begin{figure}[H]
     \centering
     \input{plots/bungleichnull.tex}   
     \caption[Spektren für verschiedene galaktische Breiten $b$]{Spektren für verschiedene galaktische Breiten $b$. Erkennbar ist, dass bei den Spektren stets bei allen gewählten galaktische Breiten $b$ die Maxima bei \SI{2.4}{\frac{km}{s}}, \SI{-30.6}{\frac{km}{s}} und bei \SI{-69.7}{\frac{km}{s}} erkennbar sind. Die gewählten galaktischen Breiten sind also zu klein gewählt worden. Bei größeren galaktischen Breiten sollte dann mindestens ein Peak verschwinden. Auf die gefitteten Gaußkurven wurde bei dieser Abbildung aus Gründen der Lesbarkeit verzichtet.}
     \label{fig:bungleichnull}
 \end{figure}
-Die ermittelten Koordinaten $r$ lassen sich nun noch in kartesische Koordinaten transformieren. Dies geschieht mit nachfolgender Gleichungen \cite{Usermanual}:
+Die ermittelten Koordinaten $r$ lassen sich nun noch in kartesische Koordinaten transformieren. Dies geschieht mit nachfolgender Gleichungen \cite{H1}:
 \begin{align}
     x &= r \cdot \cos(l-90\degree) \\
     y &= r \cdot \sin(l-90\degree) \ .
