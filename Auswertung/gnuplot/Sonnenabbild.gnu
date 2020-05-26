@@ -19,9 +19,9 @@ load "jet.pal"
 set zrange [z_min:z_max]
 #set xrange [-10:10]
 #set yrange [-10:10]
-set xlabel "Azimuth offset in $\\degree$" offset 0,-1 rotate parallel
-set ylabel "Altitude offset in $\\degree$" offset 0,-1 rotate parallel
-set zlabel "Temperatur in $\\si{}{K}$" rotate parallel
+set xlabel "azimuth offset in $\\degree$" offset 0,-1 rotate parallel
+set ylabel "altitude offset in $\\degree$" offset 0,-1 rotate parallel
+set zlabel "temperature in $\\si{}{K}$" rotate parallel
 set dgrid3d 101,101
 set hidden3d
 set ztics 100

@@ -20,6 +20,6 @@ set ylabel "temperature in $\\si{}{K}$"
 set xrange [x_min:x_max] 
 
 
-plot dataPTH1 using 1:2 with line ls 1 lw 2 title "$l = \\si{78}{\\degree}, b = \\si{0}{\\degree}$", \
+plot dataPTH1 using 1:2 with line ls 1 lw 2 title "$l = \\si{78}{\\degree}, b = \\, \\, \\, \\, \\, \\si{0}{\\degree}$", \
    dataPTH2 using 1:2 with line ls 7 lw 2 title "$l = \\si{78}{\\degree}, b = \\si{-2}{\\degree}$", \
-    dataPTH3 using 1:2 with line ls 9 lw 2 title "$l = \\si{78}{\\degree}, b = \\si{2}{\\degree}$"
+    dataPTH3 using 1:2 with line ls 9 lw 2 title "$l = \\si{78}{\\degree}, b = \\, \\, \\, \\, \\, \\si{2}{\\degree}$"
