@@ -12,55 +12,54 @@ Im Folgenden wird die Auswertung der gewonnen Daten und die Interpretation und A
     wurde die Messungen bei einer Freqeunz von $\SI{1420}{\mega \hertz}$ gemessen.
     Genauer wurde den Messprozess bereits in Abschnitt \ref{sec:Aufbau} beschrieben. 
     Aus den gewonnen Spektren wurde anschließend stets der Intensitätswert bei $\SI{1420}{\mega \hertz}$ ausgelesen und in den entsprechenden Abbildungen \ref{fig:Sonnenabbild} bis \ref{fig:Sonnenkreuz_Alt} geplottet. 
-    Zur Einheit der Intensität sei angemerkt, dass diese stets in ,,arbitrary units`` bzw. \si{\kelvin} angegeben wurden,
+    Zur Einheit der Intensität sei angemerkt, dass diese stets in \dq arbitrary units\dq{} bzw. \SI{}{\kelvin} angegeben wurden,
     da eine Kalibrierung des Teleskops für Absolutwerte vom \textsc{Onasala Space Observatory} nicht vorgenommen wurde.
     Allerdings genügt für die geforderten Belange eine Betrachtung der relativen Werte.\\
-
+\subsubsection{$5 \times 5$-Raster-Scan der Sonne}
+    Zunächst wurde ein Raster-Scan der Sonne vorgenommen, dabei wurden 25 Messungen zwischen $\SI{-10}{\degree}$ und $\SI{10}{\degree}$ azimuthalem und Höhenoffset in $\SI{5}{\degree}$-Schritten durchgeführt.
+    Die entsprechenden jeweiligen Intensitätsmaxima wurden in Abbildung \ref{fig:Sonnenabbild} über den Relativwinkeln zur Sonne bei $\SI{0}{\degree}$ aufgetragen.
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenabbild.tex}
         \caption[Raster-Scan der Sonne]{Diese Abbildung zeigt den $5 \times 5$-Raster-Scan der Sonne. Dabei wird deutlich, dass in den dunkelblau gefärbten Bereichen von $>\vert \SI{5}{\degree}\vert$ Offset sowohl in Altitude wie in Azimuth eine Grundintensität -- hier in \si{\kelvin} gemessen -- vorliegt. Je kleiner der relative Offset zur im Zentrum fokussierten Sonne, desto höher wird der Intensitätsgradient. Die Sonne als Punktquelle aufzufassen wird durch das ausgeprägte Intensitätsmaximum bei $\SI{0}{\degree}$ azimuthalem und Höhenoffset legitimiert. Zudem fällt auf, dass bei $\SI{0}{\degree}$ Höhenoffset und $\vert\SI{5}{\degree}\vert$ azimuthalem Offset erhöhte Intensitätswerte vorliegen, was in entsprechender Altitude-Ausrichtung nicht zu erkennen ist.}
         \label{fig:Sonnenabbild}
     \end{figure}
-
-    Zunächst wurde ein Raster-Scan der Sonne vorgenommen, dabei wurden 25 Messungen zwischen $\SI{-10}{\degree}$ und $\SI{10}{\degree}$ azimuthalem und Höhenoffset in $\SI{5}{\degree}$-Schritten durchgeführt.
-    Die entsprechenden jeweiligen Intensitätsmaxima wurden in Abbildung \ref{fig:Sonnenabbild} über den Relativwinkeln zur Sonne bei $\SI{0}{\degree}$ aufgetragen.
     Die Farbskala veranschaulicht deutlich, dass in den äußeren Bereichen mit Relativwinkeln größer $\approx \vert \SI{5}{\degree}\vert$ eine Grundintensität von ca. $\SI{300}{\kelvin}$ vorliegt.
     Zum Zentrum hin, nimmt die Intensität hingegen stark zu,
     wobei selbst die zentrumsnächsten Messungen bei $\vert\SI{5}{\degree}\vert$ lediglich in azimuthaler Auslenkung leichte Erhöhungen aufweisen.
     Dies lässt die oben angedeutete Annahme zu, dass die Sonne hier als Punktquelle aufgefasst werden kann.
     Auf eine Betrachtung oder Darstellung von Unsicherheiten wurde aufgrund der Übersichtlichkeit verzichtet. Zudem werden nur qualitative Aussagen getroffen, insofern sind Unsicherheitsbetrachtungen hier hinfällig.
-
+\subsubsection{Antenna response function}
+    Zur Bestimmung der \dq antenna response function\dq{},
+    welche unter der Annahme, das Teleskop sei eine Lochblende, auch als Öffnungsfunktion verstanden werden kann,
+    wurden zusätzlich jeweils in azimuthaler und altitude Koordinaten relativ zu Sonne 17 Messungen von $\SI{-16}{\degree}$ bis $\SI{16}{\degree}$ in $\SI{2}{\degree}$-Schritten durchgeführt.
+    Dabei wurde die jeweils andere Koordinate auf $\SI{0}{\degree}$ fixiert.
+    Die ausgelsenen Intensitätsmaxima wurden gegen den relativen Offset bezogen auf die Sonne aufgetragen.
+    Die entsprechenden Darstellungen finden sich in Abbildung \ref{fig:Sonnenkreuz_Az} (azimuthaler Offset) und Abbildung \ref{fig:Sonnenkreuz_Alt} (altitude Offset).
+    In beiden Abbildungen ist der charakteristische Verlauf der $\sinc$-Funktion zu erkennen.
+    Dabei bilden sich leichte lokale Maxima im Bereich von $\vert\SI{10}{\degree}\vert$ bis $\vert\SI{15}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Az}) bzw. $\vert\SI{6}{\degree}\vert$ bis $\vert\SI{10}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Alt}) aus.
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenkreuz_Az.tex}
         \caption[Kreuz-Scan der Sonne, Azimuthaler Offset]{Die Abbildung verdeutlicht den Verlauf der Datenpunkte gemäß einer $\sinc$-Funktion. Dies bestätigt die Annahme das Radioteleskop als Lochblende aufzufassen, deren Öffnungsfunktion einer $\sinc$-Funktion entspricht. Zudem lässt sich mittels \textSC{Gauß}-Fit drei charakteristische Größen ermitteln: Die Standardabweichung $\sigma$ als direktes Ergebnis des Fits mit \textsc{Gauß}scher Fehlerfunktion und die als spektrales Auflösungsvermögen zu verstehende FWHM welche nach Formel \eqref{eq:FWHM} zu berechnen ist. Zudem kann ebendalls direkt aus dem \textsc{Gaus}-Fit die Positioniergenauigkeit des Teleskops welche auch als intrinsische Unsicherheit $d$ verstanden wird abgelesen werden. Sie beziffert sich auf $d = \SI{0.968 \pm 0.047}{\degree}$.}
         \label{fig:Sonnenkreuz_Az}
     \end{figure}
-
-    Zur Bestimmung der ,,antenna response function``,
-    welche unter der Annahme, das Teleskop sei eine Lochblende, auch als Öffnungsfunktion verstanden werden kann,
-    wurden zusätzlich jeweils in azimuthaler und altitude Koordinaten relativ zu Sonne 17 Messungen von $\SI{-16}{\degree}$ bis $\SI{16}{\degree}$ in $\SI{2}{\degree}$-Schritten durchgeführt.
-    Dabei wurde die jeweils andere Koordinate auf $\SI{0}{\degree}$ fixiert.
-    Die ausgelsenen Intensitätsmaxima wurden gegen den relativen Offset bezogen auf die Sonne aufgetregen.
-    Die entsprechenden Darstellungen finden sich in Abbildung \ref{fig:Sonnenkreuz_Az} (azimuthaler Offset) und Abbildung \ref{fig:Sonnenkreuz_Alt} (Altitude Offset).
-    In beiden Abbildungen ist der charakteristische Verlauf der $\sinc$-Funktion zu erkennen.
-    Dabei bilden sich leichte lokale Maxima im Bereich von $\vert\SI{10}{\degree}\vert$ bis $\vert\SI{15}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Az}) bzw. $\vert\SI{6}{\degree}\vert$ bis $\vert\SI{10}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Alt}) aus.
-    An die Datenpunkte wurde jeweils eine \textsc{Gauß}-Funktion angefittet, welcher dann weiter Berechnungen folgten.
-    Ein Parameter lässt einen Rückschluss auf Abweichungen in der Positioniergenauigkeit des Teleskops zu und kann somit als intrinsische Unsicherheit aufgefasst werden.
-    Diese umfasst beispielsweise äußere Einflüsse, wie ein Zittern des Teleskops aufgrund von Wind oder auch den Umstand, dass das Teleskop in Schritten von $\SI{0.125}{\degree}$ trackt \cite{Usermanual} oder die Erdrotation $\approx \SI{0.25}{\degree}$ pro Minute an Winkeländerung hervorruft.
-    Diese ,,tracking accuracy`` beträgt nach \cite{Usermanual} $\SI{0.5}{\degree}$. 
-    Aus den beiden Messreihen ergab sich nach Bilden des gewichteten Mittelwerts und der zugehörigen internen Unsicherheit auf Grundlage der aus den mittels \textsc{GnuPlot} gewonnen Größen und zugehörigen Unsicherheiten ein Wert von $d = \SI{0.976 \pm 0.034}{degree}$.
-    Somit liegt der hier gefundene Wert der Positioniergenauigkeit, auch im Rahmen der berechneten Unsicherheiten, höher, als der aus der Literatur erwartete Wert. 
-    Dennoch lässt die korrekte Größenordnung auf eine korrekte Vorgehensweise schließen.
-    Es lässt sich lediglich für die weiteren Beobachtungen festhalten, dass bei den hier gegbenen Bedingungen vermutlich etwas größere Unsicherheiten vorlagen, aufgrund von beispielsweise kürzeren Messzeiten, starkem Wind oder anderen Einflüssen.\\ 
-
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenkreuz_Alt.tex}
         \caption[Kreuz-Scan der Sonne, Altitude Offset]{Analog zu Abbildung \ref{fig:Sonnenkreuz_Az} ist hier die Messung bei variiertem Altitude-Offset dargestellt. Die Standardabweichung, FWHM, sowie intrinsische Unsicherheit ($d = \SI{0.984 \pm 0.048}{\degree}$) berechnen sich entsprechend.}
         \label{fig:Sonnenkreuz_Alt}
     \end{figure}
+    An die Datenpunkte wurde jeweils eine \textsc{Gauß}-Funktion angefittet, welcher dann weiter Berechnungen folgten.
+    % Welcher Parameter????
+    Ein Parameter lässt einen Rückschluss auf Abweichungen in der Positioniergenauigkeit des Teleskops zu und kann somit als intrinsische Unsicherheit aufgefasst werden.
+    Diese umfasst beispielsweise äußere Einflüsse, wie ein Zittern des Teleskops aufgrund von Wind oder auch den Umstand, dass das Teleskop in Schritten von $\SI{0.125}{\degree}$ trackt \cite{Usermanual} oder die Erdrotation $\approx \SI{0.25}{\degree}$ pro Minute an Winkeländerung hervorruft.
+    Diese \dq tracking accuracy\dq{} beträgt nach \cite{Usermanual} $\SI{0.5}{\degree}$. 
+    Aus den beiden Messreihen ergab sich nach Bilden des gewichteten Mittelwerts und der zugehörigen internen Unsicherheit auf Grundlage der aus den mittels \textsc{GnuPlot} gewonnen Größen und zugehörigen Unsicherheiten ein Wert von $d = \SI{0.976 \pm 0.034}{\degree}$.
+    Somit liegt der hier gefundene Wert der Positioniergenauigkeit, auch im Rahmen der berechneten Unsicherheiten, höher, als der aus der Literatur erwartete Wert. 
+    Dennoch lässt die korrekte Größenordnung auf eine korrekte Vorgehensweise schließen.
+    Es lässt sich lediglich für die weiteren Beobachtungen festhalten, dass bei den hier gegbenen Bedingungen vermutlich etwas größere Unsicherheiten vorlagen, aufgrund von beispielsweise kürzeren Messzeiten, starkem Wind oder anderen Einflüssen.\\ 
+
 
     Zudem wird die Betrachtung des spektralen Auflösungsvermögens zeigen, dass sowohl die berechnete, wie auch die in der Literatur angegeben ,,tracking accuracy`` deutlich unterhalb derer liegen.
     Eine entsprechende Betrachtung folgt nun.
@@ -70,9 +69,9 @@ Im Folgenden wird die Auswertung der gewonnen Daten und die Interpretation und A
     \end{align}
     berechnet werden.
     Diese kann direkt als spektrales Auflösungsvermögen verstanden werden.
-    Die entsprechenden Werte sind den beiden Abbildungen \ref{fig:Sonnenkreuz_Az} und \ref{fig:Sonnenkreuz_Alt} zu entnehmen.Hierbei wurde ebenfalls der gewichtete Mittelwert gebildet und die externe Unsicherheit bestimmt.
+    Die entsprechenden Werte sind den beiden Abbildungen \ref{fig:Sonnenkreuz_Az} und \ref{fig:Sonnenkreuz_Alt} zu entnehmen. Hierbei wurde ebenfalls der gewichtete Mittelwert gebildet und die externe Unsicherheit bestimmt.
     Somit ergab sich ein Wert von $\text{FWHM} = \SI{6.6 \pm 1.1}{\degree}$, welcher ebenfalls auf Grundlage der berechneten Unsicherheit in guter Übereinstimmung mit dem Literaturwert von $\approx \SI{6}{\degree}$ \cite{Usermanual} liegt. 
-    Dieser Wert übersteigt die vorab bestimmte intrinsische Ungenauigkeit deutlich und bestötigt somit die hinreichende Genauigkeit des Teleskops für die nachfolgend dargelegten Untersuchungen.\\
+    Dieser Wert übersteigt die vorab bestimmte intrinsische Ungenauigkeit deutlich und bestätigt somit die hinreichende Genauigkeit des Teleskops für die nachfolgend dargelegten Untersuchungen.\\
 
     Anhand der gewonnen Werte des Auflösungsvermögens (FWHM) aus den beiden Messreihen konnte nach dem \textsc{Rayleigh}-Kriterium mittels folgender Gleichung zudem auf den Durchmesser $D$ des Teleskops geschlossen werden \cite{Karttunen2013}:
     \begin{align}
