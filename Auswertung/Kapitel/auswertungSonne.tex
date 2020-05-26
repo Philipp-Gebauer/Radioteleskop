@@ -34,18 +34,26 @@ Im Folgenden wird die Auswertung der gewonnen Daten und die Interpretation und A
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenkreuz_Az.tex}
-        \caption[Kreuz-Scan der Sonne, Azimuthaler Offset]{Die Abbildung verdeutlicht den Verlauf der Datenpunkte gemäß einer $\sinc$-Funktion. Dies bestätigt die Annahme das Radioteleskop als Lochblende aufzufassen, deren Öffnungsfunktion einer $\sinc$-Funktion entspricht. Zudem lässt sich mittels \textSC{Gauß}-Fit drei charakteristische Größen ermitteln: Die Standardabweichung $\sigma$ als direktes Ergebnis des Fits mit \textsc{Gauß}scher Fehlerfunktion. Die als spektrales Auflösungsvermögen zu verstehende FWHM welche nach \cite{wiki:FWHM} direkt aus $\text{FWHM} = 2\sqrt{2\ln(2)} \, \sigma$ zu berechnen ist. Zudem kann ebendalls direkt aus dem \textsc{Gaus}-Fit die Positioniergenauigkeit des Teleskops welche auch als intrinsische Unsicherheit $d$ verstanden wird abgelesen werden. Sie beziffert sich auf $d = \SI{0.968 \pm 0.047}{\degree}$.}
+        \caption[Kreuz-Scan der Sonne, Azimuthaler Offset]{Die Abbildung verdeutlicht den Verlauf der Datenpunkte gemäß einer $\sinc$-Funktion. Dies bestätigt die Annahme das Radioteleskop als Lochblende aufzufassen, deren Öffnungsfunktion einer $\sinc$-Funktion entspricht. Zudem lässt sich mittels \textSC{Gauß}-Fit drei charakteristische Größen ermitteln: Die Standardabweichung $\sigma$ als direktes Ergebnis des Fits mit \textsc{Gauß}scher Fehlerfunktion und die als spektrales Auflösungsvermögen zu verstehende FWHM welche nach Formel \eqref{eq:FWHM} zu berechnen ist. Zudem kann ebendalls direkt aus dem \textsc{Gaus}-Fit die Positioniergenauigkeit des Teleskops welche auch als intrinsische Unsicherheit $d$ verstanden wird abgelesen werden. Sie beziffert sich auf $d = \SI{0.968 \pm 0.047}{\degree}$.}
         \label{fig:Sonnenkreuz_Az}
     \end{figure}
 
     Zur Bestimmung der ,,antenna response function``,
-    welche unter der Annahme das Teleskop sei eine Lochblende auch als Öffnungsfunktion verstanden werden kann,
-    wurden zusätzlich jeweils in azimuthaler und altitude Koordinaten relativ zu Sonne 17 Messungen vom $\SI{-16}{\degree}$ bis $\SI{16}{\degree}$ in $\SI{2}{\degree}$-Schritten durchgeführt.
+    welche unter der Annahme, das Teleskop sei eine Lochblende, auch als Öffnungsfunktion verstanden werden kann,
+    wurden zusätzlich jeweils in azimuthaler und altitude Koordinaten relativ zu Sonne 17 Messungen von $\SI{-16}{\degree}$ bis $\SI{16}{\degree}$ in $\SI{2}{\degree}$-Schritten durchgeführt.
     Dabei wurde die jeweils andere Koordinate auf $\SI{0}{\degree}$ fixiert.
-    Die Ausgelsenen Intensitätsmaxima wurden gegen den relativen Offset bezogen auf die Sonne aufgetregen.
+    Die ausgelsenen Intensitätsmaxima wurden gegen den relativen Offset bezogen auf die Sonne aufgetregen.
     Die entsprechenden Darstellungen finden sich in Abbildung \ref{fig:Sonnenkreuz_Az} (azimuthaler Offset) und Abbildung \ref{fig:Sonnenkreuz_Alt} (Altitude Offset).
-    In beiden Abbildungen ist der charakteristische Verlauf der $\sinc$-Funktion zu erkennen. Dabei bilden sich leichte lokale Maxima im Bereich von $\vert\SI{10}{\degree}\vert$ bis $\vert\SI{15}{\degree}\vert$ (\ref{fig:Sonnenkreuz_Az}) bzw $\vert\SI{6}{\degree}\vert$ bis $\vert\SI{10}{\degree}\vert$ (\ref{fig:Sonnenkreuz_Alt}) aus.
-
+    In beiden Abbildungen ist der charakteristische Verlauf der $\sinc$-Funktion zu erkennen.
+    Dabei bilden sich leichte lokale Maxima im Bereich von $\vert\SI{10}{\degree}\vert$ bis $\vert\SI{15}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Az}) bzw. $\vert\SI{6}{\degree}\vert$ bis $\vert\SI{10}{\degree}\vert$ (Abb. \ref{fig:Sonnenkreuz_Alt}) aus.
+    An die Datenpunkte wurde jeweils eine \textsc{Gauß}-Funktion angefittet, welcher dann weiter Berechnungen folgten.
+    Ein Parameter lässt einen Rückschluss auf Abweichungen in der Positioniergenauigkeit des Teleskops zu und kann somit als intrinsische Unsicherheit aufgefasst werden.
+    Diese umfasst beispielsweise äußere Einflüsse, wie ein Zittern des Teleskops aufgrund von Wind oder auch den Umstand, dass das Teleskop in Schritten von $\SI{0.125}{\degree}$ trackt \cite{Usermanual} oder die Erdrotation $\approx \SI{0.25}{\degree}$ pro Minute an Winkeländerung hervorruft.
+    Diese ,,tracking accuracy`` beträgt nach \cite{Usermanual} $\SI{0.5}{\degree}$. 
+    Aus den beiden Messreihen ergab sich nach Bilden des gewichteten Mittelwerts und der zugehörigen internen Unsicherheit auf Grundlage der aus den mittels \textsc{GnuPlot} gewonnen Größen und zugehörigen Unsicherheiten ein Wert von $d = \SI{0.976 \pm 0.034}{degree}$.
+    Somit liegt der hier gefundene Wert der Positioniergenauigkeit, auch im Rahmen der berechneten Unsicherheiten, höher, als der aus der Literatur erwartete Wert. 
+    Dennoch lässt die korrekte Größenordnung auf eine korrekte Vorgehensweise schließen.
+    Es lässt sich lediglich für die weiteren Beobachtungen festhalten, dass bei den hier gegbenen Bedingungen vermutlich etwas größere Unsicherheiten vorlagen, aufgrund von beispielsweise kürzeren Messzeiten, starkem Wind oder anderen Einflüssen.\\ 
 
     \begin{figure}[H]
         \centering
@@ -54,14 +62,23 @@ Im Folgenden wird die Auswertung der gewonnen Daten und die Interpretation und A
         \label{fig:Sonnenkreuz_Alt}
     \end{figure}
 
-    Anhand der gewonnen Werte des Auflösungsvermögens (FWHM) aus den beiden Messreihen konnte nach dem \textsc{Rayleigh}-Kriterium mittels folgender Gleichung auf den Durchmesser des Teleskops geschlossen werden \cite{Karttunen2013}:
+    Zudem wird die Betrachtung des spektralen Auflösungsvermögens zeigen, dass sowohl die berechnete, wie auch die in der Literatur angegeben ,,tracking accuracy`` deutlich unterhalb derer liegen.
+    Eine entsprechende Betrachtung folgt nun.
+    Aus der beim \textsc{Gauß}schen Fit gewonnen Standardabweichung $\sigma$ konnte zunächst die Halbwertsbreite (FWHM) nach \cite{wiki:FWHM}
+    \begin{align}
+        \text{FWHM} = \sigma \cdot 2\sqrt{2\ln(2)} \, , \label{eq:FWHM}
+    \end{align}
+    berechnet werden.
+    Diese kann direkt als spektrales Auflösungsvermögen verstanden werden.
+    Die entsprechenden Werte sind den beiden Abbildungen \ref{fig:Sonnenkreuz_Az} und \ref{fig:Sonnenkreuz_Alt} zu entnehmen.Hierbei wurde ebenfalls der gewichtete Mittelwert gebildet und die externe Unsicherheit bestimmt.
+    Somit ergab sich ein Wert von $\text{FWHM} = \SI{6.6 \pm 1.1}{\degree}$, welcher ebenfalls auf Grundlage der berechneten Unsicherheit in guter Übereinstimmung mit dem Literaturwert von $\approx \SI{6}{\degree}$ \cite{Usermanual} liegt. 
+    Dieser Wert übersteigt die vorab bestimmte intrinsische Ungenauigkeit deutlich und bestötigt somit die hinreichende Genauigkeit des Teleskops für die nachfolgend dargelegten Untersuchungen.\\
+
+    Anhand der gewonnen Werte des Auflösungsvermögens (FWHM) aus den beiden Messreihen konnte nach dem \textsc{Rayleigh}-Kriterium mittels folgender Gleichung zudem auf den Durchmesser $D$ des Teleskops geschlossen werden \cite{Karttunen2013}:
     \begin{align}
         \Theta &= 1.22 \, \frac{\lambda}{D} \approx \ang{;;2.52} \times \frac{\lambda}{\SI{100}{\nano \metre}} \frac{\SI{1}{\centi \metre}}{D} = \SI{70}{\degree} \, \frac{\lambda}{D}\\
         \Leftrightarrow \quad D &= \SI{70}{\degree} \, \frac{\lambda}{\theta}
     \end{align}
-    Anschließend wurde der gewichtete Mittelwert der beiden berechneten Werte des Teleskopdurchmessers gebildet. Da die Grundlage der durch den \textsc{Gauß}-Fit gewonnen Größen eine nicht geringe Anzahl an einzelnen Messwerten ist, wurde statt der außerordentlich groß ausfallenden internen und externen Unsicherheit ($\approx \SI{150}{\metre}$), welche auf Grundlage der kombinierten Unsicherheiten berechnet wurden, stattdessen die Standardabweichung der berechneten Teleskopdurchmesser berechnet und als sinnvoll erachtet. Somit konnte der Durchmesser des Radioteleskops ,,Brage`` aus den erhaltenen Daten berechnet werden und beziffert sich auf $D = \SI{2.23 \pm 0.37}{\metre}$. Dies liegt auf Grundlage der in guter Übereinstimmung zum im der Projket Dokumentation \cite{Usermanual} genannten Wert von $D = \SI{2.3}{\metre}$. 
+    Anschließend wurde der gewichtete Mittelwert der beiden berechneten Werte des Teleskopdurchmessers gebildet. Da die Grundlage der durch den \textsc{Gauß}-Fit gewonnen Größen eine nicht geringe Anzahl an einzelnen Messwerten darstellt, wurde statt der außerordentlich groß ausfallenden internen und externen Unsicherheiten ($\approx \SI{150}{\metre}$), welche auf Grundlage der kombinierten Unsicherheiten berechnet wurden, stattdessen die Standardabweichung der berechneten Teleskopdurchmesser berechnet und als sinnvoll erachtet. Somit konnte der Durchmesser des Radioteleskops ,,Brage`` aus den erhaltenen Daten berechnet werden und beziffert sich auf $D = \SI{2.23 \pm 0.37}{\metre}$. Dieser Wert liegt ebenfalls in guter Übereinstimmung zum in der Projekt Dokumentation \cite{Usermanual} genannten Wert von $D = \SI{2.3}{\metre}$. \\    
     
-    
-    Somit kann konstatiert werden, dass das 
-
-    Teleskop arbeit für unsere Zwecke hinreichend genau.
+    Somit kann konstatiert werden, dass die Messungen während des Versuchstags mit hinreichend größer Präzision durchgeführt werden konnten und einige charakteristische Größen des Teleskops bestätigt werden konnten.
