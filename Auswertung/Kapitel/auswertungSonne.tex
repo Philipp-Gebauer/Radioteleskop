@@ -1,12 +1,33 @@
 % !TEX root = main.tex
 \section{Auswertung}
+Im Folgenden wird die Auswertung der gewonnen Daten und die Interpretation und Analyse der Ergebnisse dargelegt.
     \subsection{Beobachtung der Sonne}
-    \begin{figure}[H]
+    Dabei wird mit der Betrachtung der Sonne begonnen.
+    Intention dessen war einerseits die ,,antenna response function`` mittels Intensitätsmessungen zu ermitteln und daraus charakteristische Größen des Teleskops zu berechnen und andererseits, als Grundlage hierfür, die Annahme zu legitimieren, dass die Sonne innerhalb dieses Versuchs als Punktquelle aufgefasst wird.\\
+
+    Um die Messungen der Intensitätsspektren der Sonne nicht durch charakteristische Radiostrahlung der $\SI{21}{\centi \metre}$-Linie zu beeinflussen,
+    wurde die Messungen bei einer Freqeunz von $\SI{1420}{\mega \hertz}$ gemessen.
+    Genauer wurde den Messprozess bereits in Abschnitt \ref{sec:Aufbau} beschrieben. 
+    Aus den gewonnen Spektren wurde anschließend stets der Intensitätswert bei $\SI{1420}{\mega \hertz}$ ausgelesen und in den entsprechenden Abbildungen \ref{fig:Sonnenabbild} bis \ref{fig:Sonnenkreuz_Alt} geplottet. 
+    Zur Einheit der Intensität sei angemerkt, dass diese stets in ,,arbitrary units`` bzw. \si{\kelvin} angegeben wurden,
+    da eine Kalibrierung des Teleskops für Absolutwerte vom \textsc{Onasala Space Observatory} nicht vorgenommen wurde.
+    Allerdings genügt für die geforderten Belange eine Betrachtung der relativen Werte.\\
+
+    \begin{figure}[ht]
         \centering
         \input{plots/Sonnenabbild.tex}
-        \caption[Raster-Scan der Sonne]{Diese Abbildung zeigt den $5 \times 5$-Raster-Scan der Sonne. Dabei wird deutlich, dass in den dunkelblau gefärbten Bereichen von $>\vert \SI{3}{\degree}\vert$ Offset sowohl in Altitude wie in Azimuth eine Grundintensität -- hier in \si{\kelvin} gemessen -- vorliegt. Je kleiner der relative Offset zur im Zentrum fokussierten Sonne, desto höher wird der Intensitätsgradient. Die Sonne als Punktquelle aufzufassen wird durch das ausgeprägte Intensitätsmaximum bei $\SI{0}{\degree}$ azimuthalem und Höhenoffset legitimiert. Zudem fällt auf, dass bei $\SI{0}{\degree}$ Höhenffset und $\vert\SI{5}{\degree}\vert$ azimuthalem Offset erhöhte Intensitätswerte vorliegen, was in entsprechender Altitude-Ausrichtung nicht zu erkennen ist.}
+        \caption[Raster-Scan der Sonne]{Diese Abbildung zeigt den $5 \times 5$-Raster-Scan der Sonne. Dabei wird deutlich, dass in den dunkelblau gefärbten Bereichen von $>\vert \SI{5}{\degree}\vert$ Offset sowohl in Altitude wie in Azimuth eine Grundintensität -- hier in \si{\kelvin} gemessen -- vorliegt. Je kleiner der relative Offset zur im Zentrum fokussierten Sonne, desto höher wird der Intensitätsgradient. Die Sonne als Punktquelle aufzufassen wird durch das ausgeprägte Intensitätsmaximum bei $\SI{0}{\degree}$ azimuthalem und Höhenoffset legitimiert. Zudem fällt auf, dass bei $\SI{0}{\degree}$ Höhenoffset und $\vert\SI{5}{\degree}\vert$ azimuthalem Offset erhöhte Intensitätswerte vorliegen, was in entsprechender Altitude-Ausrichtung nicht zu erkennen ist.}
         \label{fig:Sonnenabbild}
     \end{figure}
+
+    Zunächst wurde ein Raster-Scan der Sonne vorgenommen, dabei wurden 25 Messungen zwischen $\SI{-10}{\degree}$ und $\SI{10}{\degree}$ azimuthalem und Höhenoffset in $\SI{5}{\degree}$-Schritten durchgeführt.
+    Die entsprechenden jeweiligen Intensitätsmaxima wurden in Abbildung \ref{fig:Sonnenabbild} über den Relativwinkeln zur Sonne bei $\SI{0}{\degree}$ aufgetragen.
+    Die Farbskala veranschaulicht deutlich, dass in den äußeren Bereichen mit Relativwinkeln größer $\approx \vert \SI{5}{\degree}\vert$ eine Grundintensität von ca. $\SI{300}{\kelvin}$ vorliegt.
+    Zum Zentrum hin, nimmt die Intensität hingegen stark zu,
+    wobei selbst die zentrumsnächsten Messungen bei $\vert\SI{5}{\degree}\vert$ lediglich in azimuthaler Auslenkung leichte Erhöhungen aufweisen.
+    Dies lässt die oben angedeutete Annahme zu, dass die Sonne hier als Punktquelle aufgefasst werden kann.
+    Auf eine Betrachtung oder Darstellung von Unsicherheiten wurde aufgrund der Übersichtlichkeit verzichtet. Zudem werden nur qualitative Aussagen getroffen, insofern sind Unsicherheitsbetrachtungen hier hinfällig.
+
 
     \begin{figure}[H]
         \centering
@@ -24,6 +45,12 @@
 
     Anhand der gewonnen Werte des Auflösungsvermögens (FWHM) aus den beiden Messreihen konnte nach dem \textsc{Rayleigh}-Kriterium mittels folgender Gleichung auf den Durchmesser des Teleskops geschlossen werden \cite{Karttunen2013}:
     \begin{align}
-        \Theta = 1.22 \frac{\lambda}{D} \approx \ang{;;2.52} \times \frac{\lambda}{\SI{100}{\nano \metre}} \frac{\SI{1}{\centi \metre}}{D} = \SI{70}{\degree} \frac{\lambda}{D}\\
-        \Leftrightarrow D = 70 \frac{\lambda}{\theta}
+        \Theta &= 1.22 \, \frac{\lambda}{D} \approx \ang{;;2.52} \times \frac{\lambda}{\SI{100}{\nano \metre}} \frac{\SI{1}{\centi \metre}}{D} = \SI{70}{\degree} \, \frac{\lambda}{D}\\
+        \Leftrightarrow \quad D &= \SI{70}{\degree} \, \frac{\lambda}{\theta}
     \end{align}
+    Anschließend wurde der gewichtete Mittelwert der beiden berechneten Werte des Teleskopdurchmessers gebildet. Da die Grundlage der durch den \textsc{Gauß}-Fit gewonnen Größen eine nicht geringe Anzahl an einzelnen Messwerten ist, wurde statt der außerordentlich groß ausfallenden internen und externen Unsicherheit ($\approx \SI{150}{\metre}$), welche auf Grundlage der kombinierten Unsicherheiten berechnet wurden, stattdessen die Standardabweichung der berechneten Teleskopdurchmesser berechnet und als sinnvoll erachtet. Somit konnte der Durchmesser des Radioteleskops ,,Brage`` aus den erhaltenen Daten berechnet werden und beziffert sich auf $D = \SI{2.23 \pm 0.37}{\metre}$. Dies liegt auf Grundlage der in guter Übereinstimmung zum im der Projket Dokumentation \cite{Usermanual} genannten Wert von $D = \SI{2.3}{\metre}$. 
+    
+    
+    Somit kann konstatiert werden, dass das 
+
+    Teleskop arbeit für unsere Zwecke hinreichend genau.
