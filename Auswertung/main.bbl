@@ -1,0 +1,45 @@
+\begin{thebibliography}{HJVK}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{HJVK}]{Usermanual}
+\btxnamefont {\btxlastnamefont {Horellou}, Cathy}, \btxnamefont {Daniel
+  \btxlastnamefont {Johansson}}, \btxnamefont {Eskil \btxlastnamefont
+  {Varenius}}\btxandcomma {} \btxandlong {}\ \btxnamefont {Grzegorz
+  \btxlastnamefont {Klopotek}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase
+  {Salsa user manual: Telescope control and data analysis}{SALSA user manual:
+  Telescope control and data analysis}}.
+\newblock {\latintext
+  \btxurlfont{https://github.com/varenius/salsa/blob/master/User_manual/English/SALSA-USERMANUAL_English.pdf?raw=true}},
+  letztes Update: 2018-04-01 20:36.
+
+\bibitem [{Var}]{AntennaResp}
+\btxnamefont {\btxlastnamefont {Varenius}, Eskil}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Salsa project documentation: Antenna response using the
+  sun}{SALSA project documentation: Antenna response using the Sun}}.
+\newblock {\latintext
+  \btxurlfont{https://fp.physik.uni-konstanz.de/docs/SALSAremote/SALSA-BEAM_English.pdf}},
+  letztes Update: 2014-12-24 19:49.
+
+\bibitem [{WC07}]{LSR}
+\btxnamefont {\btxlastnamefont {{Wada, K.}}} \btxandlong {}\ \btxnamefont
+  {\btxlastnamefont {{Combes, F.}}}\btxauthorcolon\ \btxtitlefont {Mapping the
+  Galaxy and Nearby Galaxies}.
+\newblock Astrophysics and Space Science Proceedings. \btxpublisherfont
+  {Springer}, New York, 2007\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {9780387727684}}}.
+\newblock {\latintext
+  \btxurlfont{https://books.google.de/books?id=bP9hZqoIfhMC}}.
+
+\end{thebibliography}

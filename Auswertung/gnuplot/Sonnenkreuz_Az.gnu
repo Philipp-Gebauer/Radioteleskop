@@ -1,10 +1,10 @@
 #png
- set terminal png size 1024,720
- set output "pngplots/Sonnenkreuz_Az.png"
+#  set terminal png size 1024,720
+#  set output "pngplots/Sonnenkreuz_Az.png"
 
 #epslatex
-# set terminal epslatex # size 15 cm, 9 cm
-# set output "plots/Sonnenkreuz_Az.tex"
+set terminal epslatex # size 15 cm, 9 cm
+set output "plots/Sonnenkreuz_Az.tex"
 
 x_min = -18
 x_max = 18
@@ -12,8 +12,8 @@ dataPTH = "Messwerte/TXT/Sonnenkreuz_Az.txt"
 
 # Palette Config
 load "jet.pal"
-set xlabel "Azimuthal offset relative to the Sun in $\\si{}{\\degree}$"
-set ylabel "Continuum intensity in arbitrary units"
+set xlabel "azimuthal offset relative to the Sun in $\\si{}{\\degree}$"
+set ylabel "continuum intensity in arbitrary units"
 set xrange [x_min:x_max]
 
 f(x) = (1/((2*pi)**(1.0/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
@@ -26,9 +26,9 @@ fit [x_min:x_max] f(x) dataPTH using 1:4 via a, s, d, b
 
 #hiermüsstest du dein maximum auswählen. Hier ist es hat mit der Standardabweichung s gemacht
 set arrow from d-(s*(2*log(2))**(1.0/2)),f(d-(s*(2*log(2))**(1.0/2))) to d+(s*(2*log(2))**(1.0/2)),f(d+(s*(2*log(2))**(1.0/2))) heads
-set label sprintf("FWHM = \\SI{%3.2f \\pm %3.2f}{\\degree}",(2*(2*log(2))**(1.0/2)*s),(2*(2*log(2))**(1.0/2)*s_err)) at 6, 505
+set label sprintf("FWHM $ = \\SI{%3.2f \\pm %3.2f}{\\degree}$",(2*(2*log(2))**(1.0/2)*s),(2*(2*log(2))**(1.0/2)*s_err)) at 6, 505
 set arrow from d,f(s+d) to s+d,f(s+d) heads
-set label sprintf("\\sigma =  \\SI{%4.3f \\pm %4.3f}{\\degree}",(s),(s_err)) at 6,540
+set label sprintf("$\\sigma =  \\SI{%4.3f \\pm %4.3f}{\\degree}$",(s),(s_err)) at 6,540
 set arrow from d,300 to d,700 nohead
 
 #set label sprintf("$\\tau$(0 mW) = \\SI{%.3f}{ms}", f(0)) at graph 0.6, 0.6
