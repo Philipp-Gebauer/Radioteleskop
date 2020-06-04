@@ -16,7 +16,7 @@ set xlabel "altitude offset relative to the Sun in $\\si{}{\\degree}$"
 set ylabel "continuum intensity in arbitrary units"
 set xrange [x_min:x_max]
 
-f(x) = (1/((2*pi)**(1/2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
+f(x) = (1/((2*pi)**(1./2)*s)) * b * exp(-(x-d)**2/(2*s**2)) + a
 a = 312.002
 s = 2.38898
 d = 0.983662
