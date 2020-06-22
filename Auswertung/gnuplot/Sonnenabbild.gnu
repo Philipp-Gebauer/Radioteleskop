@@ -23,7 +23,7 @@ set zrange [z_min:z_max]
 #set ylabel "altitude offset in $\\degree$" offset 0,-1 rotate parallel
 #set zlabel "temperature in $\\si{}{K}$" rotate parallel
 set xlabel "Azimutwinkelversatz in $\\degree$" offset 0,-1 rotate parallel
-set ylabel "Höhenwinkelversatz in $\\degree$" offset 0,-1 rotate parallel
+set ylabel "H\\\"ohenwinkelversatz in $\\degree$" offset 0,-1 rotate parallel
 set zlabel "Temperatur in $\\si{}{K}$" rotate parallel
 set dgrid3d 101,101
 set hidden3d

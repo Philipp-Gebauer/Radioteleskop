@@ -19,6 +19,7 @@ Simon:
 	* nicht 2 Gauss sondern 4
 	* mehr Datendiskussion v.a. bei Schwarzer Materie
 - Tabelle am Ende
+- Alle BUs zu den Belichtungsdauern checken
 
 
 beide:

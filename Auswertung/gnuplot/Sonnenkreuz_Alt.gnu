@@ -1,10 +1,10 @@
 #png
-set terminal png size 1024,720
-set output "pngplots/Sonnenkreuz_Alt.png"
+#set terminal png size 1024,720
+#set output "pngplots/Sonnenkreuz_Alt.png"
 
 #epslatex
-#set terminal epslatex # size 15 cm, 9 cm
-#set output "plots/Sonnenkreuz_Alt.tex"
+set terminal epslatex # size 15 cm, 9 cm
+set output "plots/Sonnenkreuz_Alt.tex"
 
 x_min = -18
 x_max = 18
@@ -14,8 +14,8 @@ dataPTH = "Messwerte/TXT/Sonnenkreuz_Alt.txt"
 load "jet.pal"
 #set xlabel "altitude offset relative to the Sun in $\\si{}{\\degree}$"
 #set ylabel "continuum intensity in arbitrary units"
-set xlabel "Höhenwinkelversatz relativ zur Sonne in $\\si{}{\\degree}$"
-set ylabel "Kontinuums Intensität in willkürlichen Einheiten"
+set xlabel "H\\\"ohenwinkelversatz relativ zur Sonne in $\\si{}{\\degree}$"
+set ylabel "Intensit\\\"at in willk\\\"urlichen Einheiten"
 
 
 set xrange [x_min:x_max]

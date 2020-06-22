@@ -15,7 +15,7 @@ load "jet.pal"
 #set xlabel "azimuthal offset relative to the Sun in $\\si{}{\\degree}$"
 #set ylabel "continuum intensity in arbitrary units"
 set xlabel "Azimutwinkelversatz relativ zur Sonne in $\\si{}{\\degree}$"
-set ylabel "Kontinuums Intensität in willkürlichen Einheiten"
+set ylabel "Intensit\\\"at in willk\\\"urlichen Einheiten"
 
 set xrange [x_min:x_max]
 
