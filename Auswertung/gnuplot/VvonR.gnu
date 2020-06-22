@@ -19,6 +19,8 @@ set yrange [y_min:y_max]
 set xrange [x_min:x_max]
 set xlabel "distance from galactic center in $\\si{}{kpc}$" 
 set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
+set xlabel "distance from galactic center in $\\si{}{kpc}$" 
+set ylabel "V(R) in $\\si{}{\\frac{km}{s}}$"
 set key at graph 0.5,0.5
 
 f(x) = c

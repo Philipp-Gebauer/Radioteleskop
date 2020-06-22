@@ -1,10 +1,10 @@
 #png
-set terminal png size 1024,720
-set output "pngplots/Sonnenabbild.png"
+#set terminal png size 1024,720
+#set output "pngplots/Sonnenabbild.png"
 
 #epslatex
-#set terminal epslatex
-#set output "plots/Sonnenabbild.tex"
+set terminal epslatex
+set output "plots/Sonnenabbild.tex"
 
 x_min = -8.3e-03
 x_max = -2e-03
@@ -19,9 +19,12 @@ load "jet.pal"
 set zrange [z_min:z_max]
 #set xrange [-10:10]
 #set yrange [-10:10]
-set xlabel "azimuth offset in $\\degree$" offset 0,-1 rotate parallel
-set ylabel "altitude offset in $\\degree$" offset 0,-1 rotate parallel
-set zlabel "temperature in $\\si{}{K}$" rotate parallel
+#set xlabel "azimuth offset in $\\degree$" offset 0,-1 rotate parallel
+#set ylabel "altitude offset in $\\degree$" offset 0,-1 rotate parallel
+#set zlabel "temperature in $\\si{}{K}$" rotate parallel
+set xlabel "Azimutwinkelversatz in $\\degree$" offset 0,-1 rotate parallel
+set ylabel "Höhenwinkelversatz in $\\degree$" offset 0,-1 rotate parallel
+set zlabel "Temperatur in $\\si{}{K}$" rotate parallel
 set dgrid3d 101,101
 set hidden3d
 set ztics 100

@@ -17,8 +17,10 @@ load "jet.pal"
 #set title "Abbildung der Sonne"
 set yrange [y_min:y_max]
 set xrange [x_min:x_max]
-set xlabel "x in $\\si{}{kpc}$" 
-set ylabel "y in $\\si{}{kpc}$"
+#set xlabel "x in $\\si{}{kpc}$" 
+#set ylabel "y in $\\si{}{kpc}$"
+set xlabel "x in kpc" 
+set ylabel "y in kpc"
 set object circle at 0,0 size first 25 fc rgb "navy" fs solid 0.5
 set size square
 set ytics 5

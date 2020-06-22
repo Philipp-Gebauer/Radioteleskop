@@ -1,0 +1,36 @@
+Philipp:
+- Beispielspektrum der Sonnenmessungen
+- Art der Interpolation beim Grid
+- Kreuzscan: 	* Symmetrisches Teleskop
+		* Positioniergenauigkeit in einer Richtung größer
+		* Parabolspiegel (nicht mehr alle Teile tragen bei)
+		* Effektiven beitrag berechnen
+		* 2 verschiedene Halbwertsbreiten diskutieren
+-WIKI-Quelle ersetzen
+
+
+Simon:
+- Diclaimer: Wer ist für welchen Teil verantwortlich
+- V(R) bild verbessern (eindeutschen)
+	Zudem:	* Text scheinbar unklar (nicht BU)
+		* was kann aus konstanter Geschwindigkeit herausgelesen werden? 
+		--> hat er hier Dark Matter gemeint?
+- Beispielspektrum:
+	* nicht 2 Gauss sondern 4
+	* mehr Datendiskussion v.a. bei Schwarzer Materie
+- Tabelle am Ende
+
+
+beide:
+- Abstract verbessern
+- Fehlerdiskussion und Verbesserungsvorschläge beim Fazit anfügen + Begründung der Fehler
+	(ca. halbe Seite --> ca 1P)
+- Rechtschreibfehler
+- FP-Seite nochmal abchecken --> was war dort angemerkt
+- 1420 & 1410 tauschen (Im Abstract hab ichs schon gemacht)
+	--> Sonne:	1410
+	--> MS:		1420
+- alle BU's & Formulierungen mit Beuzug zu Bildern nach Welchsel auf deutsche Legende überprüfen
+
+
+
