@@ -18,8 +18,10 @@ dataPTH6 = "Messwerte/TXT/M_Bel300s_l84_b0.txt"
 
 # Palette Config
 load "jet.pal"
-set xlabel "velocity relative to LSR in $\\si{}{\\frac{km}{s}}$"
-set ylabel "temperature in $\\si{}{K}$"
+# set xlabel "velocity relative to LSR in $\\si{}{\\frac{km}{s}}$"
+# set ylabel "temperature in $\\si{}{K}$"
+set xlabel "Geschwindigkeit relativ zu LSR in $\\frac{\\text{km}}{\\text{s}}$"
+set ylabel "Temperatur in K"
 set xrange [x_min:x_max] 
 
 plot dataPTH1 using 1:2 with line ls 1 lw 2 title "$\\si{1}{s}$", \

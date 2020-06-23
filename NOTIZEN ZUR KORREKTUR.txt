@@ -9,17 +9,17 @@ Philipp:
 -WIKI-Quelle ersetzen
 
 
-Simon:
-- Diclaimer: Wer ist für welchen Teil verantwortlich
-- V(R) bild verbessern (eindeutschen)
-	Zudem:	* Text scheinbar unklar (nicht BU)
-		* was kann aus konstanter Geschwindigkeit herausgelesen werden? 
-		--> hat er hier Dark Matter gemeint?
-- Beispielspektrum:
-	* nicht 2 Gauss sondern 4
-	* mehr Datendiskussion v.a. bei Schwarzer Materie
-- Tabelle am Ende
-- Alle BUs zu den Belichtungsdauern checken
+[check]Simon:
+[check] - Diclaimer: Wer ist für welchen Teil verantwortlich
+[check] - V(R) bild verbessern (eindeutschen)
+[check]	Zudem:	* Text scheinbar unklar (nicht BU)
+[check]		* was kann aus konstanter Geschwindigkeit herausgelesen werden? 
+[check]		--> hat er hier Dark Matter gemeint?
+[check]- Beispielspektrum:
+[check]	* nicht 2 Gauss sondern 4
+[check]	* mehr Datendiskussion v.a. bei Schwarzer Materie
+[check]- Tabelle am Ende
+[check]- Alle BUs zu den Belichtungsdauern checken
 
 
 beide:
@@ -30,7 +30,7 @@ beide:
 - FP-Seite nochmal abchecken --> was war dort angemerkt
 - 1420 & 1410 tauschen (Im Abstract hab ichs schon gemacht)
 	--> Sonne:	1410
-	--> MS:		1420
+	--> [check] MS:		1420
 - alle BU's & Formulierungen mit Beuzug zu Bildern nach Welchsel auf deutsche Legende überprüfen
 
 

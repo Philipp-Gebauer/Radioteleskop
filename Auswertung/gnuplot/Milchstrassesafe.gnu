@@ -6,8 +6,8 @@
 set terminal epslatex
 set output "plots/Milchstrassesafe.tex"
 
-y_min = -30
-y_max = 30
+y_min = -40
+y_max = 20
 x_min = -30
 x_max = 30
 dataPTH = "Messwerte/TXT/Milchstrassesafe.txt"
@@ -21,7 +21,7 @@ set xrange [x_min:x_max]
 #set ylabel "y in $\\si{}{kpc}$"
 set xlabel "x in kpc" 
 set ylabel "y in kpc"
-set object circle at 0,0 size first 25 fc rgb "navy" fs solid 0.5
+set object circle at 0,-8.5 size first 25 fc rgb "navy" fs solid 0.5
 set size square
 set ytics 5
  set xtics 5
