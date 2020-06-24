@@ -1,10 +1,10 @@
 #png
-#set terminal png size 1024,720
-#set output "pngplots/Sonnenabbild.png"
+set terminal png size 1024,720
+set output "pngplots/Sonnenabbild.png"
 
 #epslatex
-set terminal epslatex
-set output "plots/Sonnenabbild.tex"
+#set terminal epslatex
+#set output "plots/Sonnenabbild.tex"
 
 x_min = -8.3e-03
 x_max = -2e-03
@@ -31,6 +31,14 @@ set ztics 100
 set ticslevel 0.05
 set cbrange [300:700]
 unset colorbox
+#set dgrid3d splines
+#set dgrid3d 101,101 qnorm 1
+set dgrid3d 151,151 qnorm (2,mean=0,sd=1)
+#set dgrid3d 30,30 qnorm 2
+#set dgrid3d 191,191 gauss 2.25,2.25
+#set dgrid3d 30,30 gauss .75
+#set dgrid3d 30,30 gauss 0.35,0.5
+
 #set pm3d #füllt mit farbe
 #set datafile separator ","
 

@@ -9,19 +9,26 @@ Im Folgenden werden die Auswertung der gewonnenen Daten sowie die Interpretation
 
     Um die Messungen der Intensitätsspektren der Sonne nicht durch charakteristische Radiostrahlung der
     21-\si{\centi \metre}-Linie zu beeinflussen,
-    wurden die Messungen bei einer Freqeunz von $\SI{1410}{\mega \hertz}$ gemessen.
+    wurden die Messungen bei einer Freqeunz von $\SI{1410}{\mega \hertz}$ für jeweils $\SI{10}{\second}$ gemessen.
     Genauer wurde der Messprozess bereits in Abschnitt \ref{sec:Aufbau} beschrieben. 
     Aus den gewonnenen Spektren wurde anschließend stets der Intensitätswert bei $\SI{1410}{\mega \hertz}$ ausgelesen und in den entsprechenden Abbildungen \ref{fig:Sonnenabbild} bis \ref{fig:Sonnenkreuz_Alt} geplottet. 
 
-    Beispielhaft zeigt Abbildung (xy) eine solche Messung.
+    Beispielhaft zeigt Abbildung \ref{fig:Sonnenspektrum} eine solche Messung. Während der Auswertung wurde stets der Intensitätswert, welcher der Messfrequenz $\SI{1410}{\mega \hertz}$ zuzuordnen ist, ausgelesen um eine Grundlage für die Vergleichbarkeit der Daten zu schaffen. Diese Frequenz ist in Abbildung \ref{fig:Sonnenabbild} hervorgehoben und zeigt, dass durch dieses Vorgehen mit guter Genauigkeit das Maximum des jeweiligen Spektrums erhalten wurde. Dies wurde sowohl beim $5 \times 5$-Raster-Scan als auch bei den Kreuz-Scans angewendet.
 
-    Zur Einheit der Intensität sei angemerkt, dass diese stets in ,,arbitrary units`` bzw. in Kelvin [\SI{}{\kelvin}] angegeben wurden,
+    \begin{figure}[ht]
+        \centering
+        \input{plots/Sonnenspektrum.tex}
+        \caption[Beispielspektrum der Sonnenmessungen]{In dieser Abbildung ist beispielhaft ein aufgezeichnetes Sonnenspektrum gezeigt. Es handelt sich um die Messung bei welcher sowohl Höhen- wie auch Azimutwinkelversatz gleich null sind. Dabei ist die Intensität über der Frequenz aufgetragen. Zudem wurde die Frequenz $\SI{1410}{\mega \hertz}$ markiert bei welcher der zugehörige Intensitätswert ausgelesen wurde, da diese als Messfrequenz eingestellt wurde. Entsprechend wurde für jeden Winkelversatz der entsprechende Intensitätswert ausgelesen.}
+        \label{fig:Sonnenspektrum}
+    \end{figure}
+
+    Zur Einheit der Intensität sei angemerkt, dass diese stets in ,,arbitrary units`` bzw. in Kelvin (\SI{}{\kelvin}) angegeben wurden,
     da eine Kalibrierung des Teleskops für Absolutwerte vom \textsc{Onasala Space Observatory} nicht vorgenommen wurde.
     Allerdings genügt für die geforderten Belange eine Betrachtung der relativen Werte.\\
 
     \subsubsection{Raster-Scan der Sonne}
-    Zunächst wurde ein Raster-Scan der Sonne vorgenommen, dabei wurden 25 Messungen zwischen $\SI{-10}{\degree}$ und $\SI{10}{\degree}$ azimuthalem und Höhenoffset in $\SI{5}{\degree}$-Schritten durchgeführt.
-    Die entsprechenden jeweiligen Intensitätsmaxima wurden in Abbildung \ref{fig:Sonnenabbild} über den Relativwinkeln zur Sonne bei $\SI{0}{\degree}$ aufgetragen.
+    Zunächst wurde ein Raster-Scan der Sonne vorgenommen, dabei wurden 25 Messungen zwischen $\SI{-10}{\degree}$ und $\SI{10}{\degree}$ Azimut- (azimuth) und Höhenwinkelversatz (altitude) in $\SI{5}{\degree}$-Schritten durchgeführt.
+    Die entsprechenden jeweiligen Intensitätsmaxima wurden in Abbildung \ref{fig:Sonnenabbild} über den Relativwinkeln zur Sonne bei $\SI{0}{\degree}$ aufgetragen. Die Interpolation zwischen den 25 Messwerten wurde dabei mittels \textSC{Gnuplot} durchgeführt. \textsc{Gnuplot} verwendet hierbei den ,,Qnorm-Algorithmus``, welcher einen gewichteten Mittelwert der Messdaten an jedem Gitterpunkt berechnet. Dabei wird jeder Messwert mit dem Inversen seines Abstandes zum jeweiligen Gitterpunkt gewichtet. Diese Gewichtung wird zudem mit der Ordnung der Norm potenziert. Als zusätzliche Parameter können optional die Lage des erwarteten globalen Maximus und die erwartete Standardabweichung angegeben werden. Die Lage wurde im Zentrum bei jeweils $\SI{0}{\degree}$ Azimutal- und Höhenwinkelversatz erkannt. Auf eine Angabe der vermuteten Standardabweichung wurde verzichtet.
     \begin{figure}[H]
         \centering
         \input{plots/Sonnenabbild.tex}
@@ -31,7 +38,10 @@ Im Folgenden werden die Auswertung der gewonnenen Daten sowie die Interpretation
     Die Farbskala veranschaulicht deutlich, dass in den äußeren Bereichen mit Relativwinkeln größer $\approx \vert \SI{5}{\degree}\vert$ eine Grundintensität von ca. $\SI{300}{\kelvin}$ vorliegt.
     Zum Zentrum hin nimmt die Intensität hingegen stark zu,
     wobei selbst die zentrumsnächsten Messungen bei $\vert\SI{5}{\degree}\vert$ lediglich in azimuthaler Auslenkung leichte Erhöhungen aufweisen.
-    Dies lässt die oben angedeutete Annahme zu, dass die Sonne hier als Punktquelle aufgefasst werden kann.
+    Dies lässt die oben angedeutete Annahme zu, dass die Sonne hier als Punktquelle aufgefasst werden kann. 
+    Da das in Abbildung \ref{fig:Sonnenabbild} zu sehende Beugungsbild einem zweidimensionalen $\sinc$-Profil gleicht.
+    Dies erhält man, sofern sich das Radioteleskop wie eine Kreisblende verhält. \textcolor{red}{!!! Nochmal nachformulieren.}Auf Grundlage dieser Erkenntnis lassen sich weitere ... FWHM und Auflösungsvermögen bestimmen\\ 
+    \\
     Auf eine Betrachtung oder Darstellung von Unsicherheiten wurde aufgrund der Übersichtlichkeit verzichtet. Zudem werden nur qualitative Aussagen getroffen, insofern sind Unsicherheitsbetrachtungen hier hinfällig.
 
     \subsubsection{Öffnungsfunktion des Radioteleskops}
