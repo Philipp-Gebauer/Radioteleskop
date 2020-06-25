@@ -15,7 +15,7 @@ load "jet.pal"
 #set xlabel "altitude offset relative to the Sun in $\\si{}{\\degree}$"
 #set ylabel "continuum intensity in arbitrary units"
 set xlabel "H\\\"ohenwinkelversatz relativ zur Sonne in $\\si{}{\\degree}$"
-set ylabel "Intensit\\\"at in willk\\\"urlichen Einheiten"
+set ylabel "Intensit\\\"at in beliebiger Einheit"
 
 
 set xrange [x_min:x_max]

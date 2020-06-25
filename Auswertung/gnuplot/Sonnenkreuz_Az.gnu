@@ -1,10 +1,10 @@
 #png
-  set terminal png size 1024,720
-  set output "pngplots/Sonnenkreuz_Az.png"
+#  set terminal png size 1024,720
+#  set output "pngplots/Sonnenkreuz_Az.png"
 
 #epslatex
-#set terminal epslatex # size 15 cm, 9 cm
-#set output "plots/Sonnenkreuz_Az.tex"
+set terminal epslatex # size 15 cm, 9 cm
+set output "plots/Sonnenkreuz_Az.tex"
 
 x_min = -18
 x_max = 18
@@ -15,7 +15,7 @@ load "jet.pal"
 #set xlabel "azimuthal offset relative to the Sun in $\\si{}{\\degree}$"
 #set ylabel "continuum intensity in arbitrary units"
 set xlabel "Azimutwinkelversatz relativ zur Sonne in $\\si{}{\\degree}$"
-set ylabel "Intensit\\\"at in willk\\\"urlichen Einheiten"
+set ylabel "Intensit\\\"at in beliebiger Einheit"
 
 set xrange [x_min:x_max]
 

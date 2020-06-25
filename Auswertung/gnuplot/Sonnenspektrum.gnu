@@ -1,6 +1,6 @@
 #png
-#  set terminal png size 1024,720
-#  set output "pngplots/Sonnenspektrum.png"
+ # set terminal png size 1024,720
+ # set output "pngplots/Sonnenspektrum.png"
 
 #epslatex
 set terminal epslatex # size 15 cm, 9 cm
@@ -12,7 +12,7 @@ dataPTH = "Auswertung/Messwerte/Sonnenspektrum.txt"
 
 
 load "jet.pal"
-set xlabel "Frequenz in mHz"
+set xlabel "Frequenz in MHz"
 set ylabel "Temperatur in K"
 set yrange [y_min:y_max]
 
