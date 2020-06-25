@@ -1,14 +1,18 @@
 Philipp:
-- Beispielspektrum der Sonnenmessungen
-- Art der Interpolation beim Grid
-- Kreuzscan: 	* Symmetrisches Teleskop
-		* Positioniergenauigkeit in einer Richtung größer
-		* Parabolspiegel (nicht mehr alle Teile tragen bei)
-		* Effektiven beitrag berechnen
-		* 2 verschiedene Halbwertsbreiten diskutieren
--WIKI-Quelle ersetzen
+[check] - Beispielspektrum der Sonnenmessungen
+[check] - Art der Interpolation beim Grid
+[check] - Kreuzscan: 	* Symmetrisches Teleskop
+[check] 		* Positioniergenauigkeit in einer Richtung größer
+[check] 		* Parabolspiegel (nicht mehr alle Teile tragen bei)
+[check] 		* Effektiven beitrag berechnen
+[check] 		* 2 verschiedene Halbwertsbreiten diskutieren
+[check] 		* Wind, Motorschaden, falsche Justierung (durch wind), Mechanik und Positioniergenauigkeit
+[check] 		* mehr messungen
+- WIKI-Quelle ersetzen
+- sinc früher bzw ansich erwähnen?
 
 
+ 
 [check]Simon:
 [check] - Diclaimer: Wer ist für welchen Teil verantwortlich
 [check] - V(R) bild verbessern (eindeutschen)
@@ -32,6 +36,8 @@ beide:
 	--> Sonne:	1410
 	--> [check] MS:		1420
 - alle BU's & Formulierungen mit Beuzug zu Bildern nach Welchsel auf deutsche Legende überprüfen
+
+Bei Upload: - Fehler bei Unsichrheitsrechnung erwähnen (Sonnenteil)
 
 
 
