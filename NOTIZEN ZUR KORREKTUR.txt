@@ -8,7 +8,7 @@ Philipp:
 [check] 		* 2 verschiedene Halbwertsbreiten diskutieren
 [check] 		* Wind, Motorschaden, falsche Justierung (durch wind), Mechanik und Positioniergenauigkeit
 [check] 		* mehr messungen
-- WIKI-Quelle ersetzen
+[check] - WIKI-Quelle ersetzen
 - sinc früher bzw ansich erwähnen?
 
 
@@ -27,13 +27,13 @@ Philipp:
 
 
 beide:
-- Abstract verbessern
-- Fehlerdiskussion und Verbesserungsvorschläge beim Fazit anfügen + Begründung der Fehler
+[check]- Abstract verbessern
+[check]- Fehlerdiskussion und Verbesserungsvorschläge beim Fazit anfügen + Begründung der Fehler
 	(ca. halbe Seite --> ca 1P)
-- Rechtschreibfehler
+[check]- Rechtschreibfehler
 - FP-Seite nochmal abchecken --> was war dort angemerkt
-- 1420 & 1410 tauschen (Im Abstract hab ichs schon gemacht)
-	--> Sonne:	1410
+[check]- 1420 & 1410 tauschen (Im Abstract hab ichs schon gemacht)
+	--> [check] Sonne:	1410
 	--> [check] MS:		1420
 - alle BU's & Formulierungen mit Beuzug zu Bildern nach Welchsel auf deutsche Legende überprüfen
 

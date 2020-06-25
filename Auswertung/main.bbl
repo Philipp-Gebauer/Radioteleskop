@@ -63,13 +63,11 @@
 \newblock {\latintext
   \btxurlfont{https://books.google.de/books?id=bP9hZqoIfhMC}}.
 
-\bibitem [{Wik18}]{wiki:FWHM}
-\btxnamefont {\btxlastnamefont {Wikipedia}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Halbwertsbreite --- wikipedia{,} die freie
-  enzyklopädie}{Halbwertsbreite --- Wikipedia{,} Die freie Enzyklopädie}},
-  2018.
+\bibitem [{Wei}]{FWHM}
+\btxnamefont {\btxlastnamefont {Weisstein}, Eric}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Full width at half maximum}{Full Width at Half Maximum}}.
 \newblock {\latintext
-  \btxurlfont{https://de.wikipedia.org/w/index.php?title=Halbwertsbreite&oldid=182539858}},
-  [Online; Stand 26. Mai 2020].
+  \btxurlfont{https://mathworld.wolfram.com/FullWidthatHalfMaximum.html}},
+  [Online; Stand 25. Juni 2020].
 
 \end{thebibliography}
