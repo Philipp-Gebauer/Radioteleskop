@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  25 JUN 2020 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.22)  10 AUG 2020 17:46
 entering extended mode
-**"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
-("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/main.tex"
+**"c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/main.tex"
+("c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/main.tex"
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-04-06> ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\header.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/koma-script\scrartcl.cls"
+L3 programming layer <2020-04-06> ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\header.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/koma-script\scrartcl.cls"
 Document Class: scrartcl 2020/01/24 v3.29 KOMA-Script document class (article)
 ("C:\Program Files\MiKTeX 2.9-2\tex/latex/koma-script\scrkbase.sty"
 Package: scrkbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
@@ -810,7 +810,7 @@ File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowlength=\dimen302
 \pgfarrowwidth=\dimen303
 \pgfarrowlinewidth=\dimen304
-)) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
+)) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux")
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
@@ -919,7 +919,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 2.
 LaTeX Info: Redefining \pageref on input line 2.
 LaTeX Info: Redefining \nameref on input line 2.
- ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out")
+ ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out")
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -992,7 +992,7 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Trying to load font information for OT1+lmtt on input line 2.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/title.tex"
+) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/title.tex"
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7.
  ("C:\Program Files\MiKTeX 2.9-2\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1011,11 +1011,11 @@ Overfull \hbox (3.24985pt too wide) in paragraph at lines 13--26
 [1
 
 
-{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/inhaltsverzeichnis.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc")
+{C:/Users/phili/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/inhaltsverzeichnis.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.toc")
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [2]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/einleitung.tex") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/grundlagen.tex"
+ [2]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/einleitung.tex") ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/grundlagen.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--2
 
  []
@@ -1024,7 +1024,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--2
 <to be read again> 
                    \relax 
 l.19 \newpage
-              [1] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/aufbau.tex"
+              [1] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/aufbau.tex"
 <pngplots/Teleskop.png, id=66, 322.806pt x 363.15675pt>
 File: pngplots/Teleskop.png Graphic file (type png)
 <use pngplots/Teleskop.png>
@@ -1049,12 +1049,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
 <to be read again> 
                    \relax 
 l.31 \newpage
-              [2 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/pngplots/Teleskop.png>] [3] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/auswertungSonne.tex"
+              [2 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/pngplots/Teleskop.png>] [3] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/auswertungSonne.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 5--9
 
  []
 
-("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenspektrum.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Sonnenspektrum.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 \gptboxheight=\skip84
@@ -1071,7 +1071,7 @@ Package epstopdf Info: Source file: <plots/Sonnenspektrum.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenspektrum-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenspektrum-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Sonnenspektrum-eps-converted-to.pdf, id=87, 361.35pt x 252.945pt>
 File: plots/Sonnenspektrum-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenspektrum-eps-converted-to.pdf>
@@ -1082,7 +1082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--32
 
  []
 
-("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenabbild.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Sonnenabbild.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenabbild.eps>
@@ -1096,13 +1096,13 @@ Package epstopdf Info: Source file: <plots/Sonnenabbild.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenabbild-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Sonnenabbild-eps-converted-to.pdf, id=89, 361.35pt x 252.945pt>
 File: plots/Sonnenabbild-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenabbild-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenabbild-eps-converted-to.pdf  used on input line 111.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [4] [5 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenspektrum-eps-converted-to.pdf>] [6 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenabbild-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Az.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) [4] [5 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenspektrum-eps-converted-to.pdf>] [6 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenabbild-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Sonnenkreuz_Az.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenkreuz_Az.eps>
@@ -1116,13 +1116,13 @@ Package epstopdf Info: Source file: <plots/Sonnenkreuz_Az.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenkreuz_Az-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Sonnenkreuz_Az-eps-converted-to.pdf, id=111, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Az-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Az-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Az-eps-converted-to.pdf  used on input line 118.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Sonnenkreuz_Alt.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Sonnenkreuz_Alt.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Sonnenkreuz_Alt.eps>
@@ -1136,13 +1136,13 @@ Package epstopdf Info: Source file: <plots/Sonnenkreuz_Alt.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenkreuz_Alt-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Sonnenkreuz_Alt-eps-converted-to.pdf, id=118, 361.35pt x 252.945pt>
 File: plots/Sonnenkreuz_Alt-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Sonnenkreuz_Alt-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Sonnenkreuz_Alt-eps-converted-to.pdf  used on input line 118.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [7 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Az-eps-converted-to.pdf>] [8 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Sonnenkreuz_Alt-eps-converted-to.pdf>]
+) [7 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenkreuz_Az-eps-converted-to.pdf>] [8 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Sonnenkreuz_Alt-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -1152,12 +1152,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--136
 
  []
 
-[10]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/auswertungMilchstraße.tex"
+[10]) ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/auswertungMilchstraße.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Belichtungszeit.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Belichtungszeit.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Belichtungszeit.eps>
@@ -1171,13 +1171,13 @@ Package epstopdf Info: Source file: <plots/Belichtungszeit.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Belichtungszeit-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Belichtungszeit-eps-converted-to.pdf, id=161, 361.35pt x 252.945pt>
 File: plots/Belichtungszeit-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Belichtungszeit-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Belichtungszeit-eps-converted-to.pdf  used on input line 124.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [11] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/BelichtungszeitExtrema.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+) [11] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/BelichtungszeitExtrema.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/BelichtungszeitExtrema.eps>
@@ -1191,13 +1191,13 @@ Package epstopdf Info: Source file: <plots/BelichtungszeitExtrema.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/BelichtungszeitExtrema-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/BelichtungszeitExtrema-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/BelichtungszeitExtrema-eps-converted-to.pdf, id=170, 361.35pt x 252.945pt>
 File: plots/BelichtungszeitExtrema-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/BelichtungszeitExtrema-eps-converted-to.pdf>
 Package pdftex.def Info: plots/BelichtungszeitExtrema-eps-converted-to.pdf  used on input line 118.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [12 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Belichtungszeit-eps-converted-to.pdf>]
+) [12 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Belichtungszeit-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <plots/TestBaseline.eps>
 (epstopdf)                    date: 2020-06-23 00:59:17
 (epstopdf)                    size: 31784 bytes
@@ -1209,13 +1209,13 @@ Package epstopdf Info: Source file: <plots/TestBaseline.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/TestBaseline-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/TestBaseline-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/TestBaseline-eps-converted-to.pdf, id=180, 577.15625pt x 559.08875pt>
 File: plots/TestBaseline-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/TestBaseline-eps-converted-to.pdf>
 Package pdftex.def Info: plots/TestBaseline-eps-converted-to.pdf  used on input line 36.
 (pdftex.def)             Requested size: 320.09355pt x 310.08464pt.
-[13 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/BelichtungszeitExtrema-eps-converted-to.pdf>] [14 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/TestBaseline-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/VvonR.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+[13 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/BelichtungszeitExtrema-eps-converted-to.pdf>] [14 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/TestBaseline-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/VvonR.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/VvonR.eps>
@@ -1229,18 +1229,18 @@ Package epstopdf Info: Source file: <plots/VvonR.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/VvonR-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/VvonR-eps-converted-to.pdf, id=201, 361.35pt x 252.945pt>
 File: plots/VvonR-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/VvonR-eps-converted-to.pdf>
 Package pdftex.def Info: plots/VvonR-eps-converted-to.pdf  used on input line 111.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [15 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/VvonR-eps-converted-to.pdf>]
+) [15 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/VvonR-eps-converted-to.pdf>]
 Overfull \hbox (26.46358pt too wide) in paragraph at lines 66--69
 \T1/lmr/m/n/10.95 Mit $\OML/lmm/m/it/10.95 R$ \T1/lmr/m/n/10.95 kann nun mit-hil-fe des Co-si-nus-sat-zes ein Aus-druck f�r $\OML/lmm/m/it/10.95 r$ \T1/lmr/m/n/10.95 (Ab-stand Sonne-Wasserstoffwolke)
  []
 
-("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/bungleichnull.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/bungleichnull.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/bungleichnull.eps>
@@ -1254,7 +1254,7 @@ Package epstopdf Info: Source file: <plots/bungleichnull.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/bungleichnull-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/bungleichnull-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/bungleichnull-eps-converted-to.pdf, id=219, 361.35pt x 252.945pt>
 File: plots/bungleichnull-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/bungleichnull-eps-converted-to.pdf>
@@ -1265,7 +1265,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--101
 
  []
 
-[17 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/bungleichnull-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots/Milchstrassesafe.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
+[17 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/bungleichnull-eps-converted-to.pdf>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots/Milchstrassesafe.tex" ("C:\Program Files\MiKTeX 2.9-2\tex/latex/base\cp1252.def"
 File: cp1252.def 2018/08/11 v1.3c Input encoding file
 )
 Package epstopdf Info: Source file: <plots/Milchstrassesafe.eps>
@@ -1279,24 +1279,24 @@ Package epstopdf Info: Source file: <plots/Milchstrassesafe.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Milchstrassesafe-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <plots/Milchstrassesafe-eps-converted-to.pdf, id=251, 361.35pt x 252.945pt>
 File: plots/Milchstrassesafe-eps-converted-to.pdf Graphic file (type pdf)
 <use plots/Milchstrassesafe-eps-converted-to.pdf>
 Package pdftex.def Info: plots/Milchstrassesafe-eps-converted-to.pdf  used on input line 122.
 (pdftex.def)             Requested size: 361.34912pt x 252.94438pt.
-) [18 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/plots/Milchstrassesafe-eps-converted-to.pdf>]
+) [18 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/plots/Milchstrassesafe-eps-converted-to.pdf>]
 <pngplots/milchstrasselit.png, id=261, 1258.7025pt x 1263.21938pt>
 File: pngplots/milchstrasselit.png Graphic file (type png)
 <use pngplots/milchstrasselit.png>
 Package pdftex.def Info: pngplots/milchstrasselit.png  used on input line 122.
 (pdftex.def)             Requested size: 298.75269pt x 299.82497pt.
-) [19 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/Radioteleskop/Auswertung/pngplots/milchstrasselit.png>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/fazit.tex" [20]
+) [19 <c:/Users/phili/Dokumente/Studium/Konstanz/7. Semester/FP/SALSA Radioteleskop Remote/Auswertung-RT/pngplots/milchstrasselit.png>] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/fazit.tex" [20]
 Underfull \hbox (badness 10000) in paragraph at lines 19--32
 
  []
 
-) [21] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel/tables.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl"
+) [21] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel/tables.tex" ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.bbl"
 babelbib: Using the BibTeX style's default font for `name'.
 babelbib: Using the BibTeX style's default font for `lastname'.
 babelbib: Using the BibTeX style's default font for `title'.
@@ -1351,11 +1351,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--55
 \T1/lmr/m/it/10.95 the Sun\T1/lmr/m/n/10.95 .  []$\T1/lmtt/m/n/10.95 https : / / fp . physik . uni-[]konstanz . de / docs / SALSAremote /
  []
 
-) [22] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof")
+) [22] ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lof")
 \tf@lof=\write7
 \openout7 = `main.lof'.
 
- ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot")
+ ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lot")
 \tf@lot=\write8
 \openout8 = `main.lot'.
 
@@ -1373,7 +1373,7 @@ Overfull \vbox (61.04941pt too high) has occurred while \output is active []
  [25]) [26]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
- ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux")
+ ("c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1382,14 +1382,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
  29620 strings out of 480930
- 620284 string characters out of 2908615
+ 621276 string characters out of 2908615
  1015271 words of memory out of 3000000
  44724 multiletter control sequences out of 15000+200000
  636462 words of font info for 101 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,20n,83p,10202b,1418s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 67i,20n,83p,10218b,1418s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9-2/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmbx8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9-2/fonts/type1/public/lm/lmtt10.pfb>
-Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf" (28 pages, 1939382 bytes).
+Output written on "c:/Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.pdf" (28 pages, 1939602 bytes).
 PDF statistics:
  451 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 500000)

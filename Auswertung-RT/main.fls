@@ -1,9 +1,9 @@
-PWD c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung
+PWD c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT
 INPUT C:\Users\phili\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.tex
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.log
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\header.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\header.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.tex
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.log
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\header.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\header.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\koma-script\scrartcl.cls
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\koma-script\scrkbase.sty
@@ -283,9 +283,9 @@ INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmr.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmr.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmr10.tfm
@@ -307,14 +307,14 @@ INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\refcount\refcount.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.pdf
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\bookmark\bookmark.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\bookmark\bookmark.sty
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\bookmark\bkm-pdftex.def
@@ -362,8 +362,8 @@ INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\ot1lmtt.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\rm-lmtt10.tfm
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\rm-lmtt8.tfm
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\rm-lmtt8.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\title.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\title.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\title.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\title.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmss.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmss.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmss10.tfm
@@ -411,189 +411,189 @@ INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ts1-lmr5.tfm
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmr5.tfm
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\phili\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\inhaltsverzeichnis.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.toc
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\einleitung.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\einleitung.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\grundlagen.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\grundlagen.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\inhaltsverzeichnis.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\inhaltsverzeichnis.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.toc
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.toc
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.toc
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\einleitung.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\einleitung.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\grundlagen.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\grundlagen.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmbx10.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\aufbau.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\aufbau.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\Teleskop.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\Teleskop.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\Teleskop.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\Teleskop.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\Teleskop.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\auswertungSonne.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\auswertungSonne.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\aufbau.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\aufbau.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\Teleskop.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\Teleskop.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\Teleskop.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\Teleskop.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\Teleskop.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\auswertungSonne.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\auswertungSonne.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenspektrum-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenspektrum-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenabbild-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenabbild-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Az-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Az-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\auswertungMilchstraße.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\auswertungMilchstraße.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Sonnenkreuz_Alt-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\auswertungMilchstraße.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\auswertungMilchstraße.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Belichtungszeit-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Belichtungszeit-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\BelichtungszeitExtrema-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\TestBaseline-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\BelichtungszeitExtrema-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\TestBaseline-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\VvonR-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\VvonR-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\bungleichnull-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\bungleichnull-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.tex
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\base\cp1252.def
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe.eps
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\plots\Milchstrassesafe-eps-converted-to.pdf
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\milchstrasselit.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\milchstrasselit.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\milchstrasselit.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\milchstrasselit.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\pngplots\milchstrasselit.png
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\fazit.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\fazit.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\tables.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\Kapitel\tables.tex
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.bbl
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe.eps
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\plots\Milchstrassesafe-eps-converted-to.pdf
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\milchstrasselit.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\milchstrasselit.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\milchstrasselit.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\milchstrasselit.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\pngplots\milchstrasselit.png
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\fazit.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\fazit.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\tables.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\Kapitel\tables.tex
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.bbl
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.bbl
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmtt.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\tex\latex\lm\t1lmtt.fd
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmtt10.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lof
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
-OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.lot
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lof
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lof
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lof
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lot
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lot
+OUTPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.lot
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmbx8.tfm
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\tfm\public\lm\ec-lmbx6.tfm
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.aux
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
-INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\Radioteleskop\Auswertung\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.aux
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
+INPUT c:\Users\phili\Dokumente\Studium\Konstanz\7. Semester\FP\SALSA Radioteleskop Remote\Auswertung-RT\main.out
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Program Files\MiKTeX 2.9-2\fonts\enc\dvips\lm\lm-mathsy.enc
