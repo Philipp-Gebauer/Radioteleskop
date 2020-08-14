@@ -1,16 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "..\\Radioteleskop\\Auswertung"
-		},
-		{
-			"path": "..\\..\\Energiewende\\Git\\Energiewende"
-		},
-		{
 			"path": "..\\EFNMR-Remote"
-		},
-		{
-			"path": "..\\EFNMR-Remote\\Auswertung"
 		}
 	],
 	"settings": {}
